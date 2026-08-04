@@ -1,18 +1,33 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+- type: facebook
+  icon: 'fab fa-facebook'
+  url: 'https://www.facebook.com/jaimerodrigo.sangocondor'
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: instagram
+  icon: 'fab fa-instagram'
+  url: 'https://www.instagram.com/rodrigoelsoldador'
+
+#- type: github
+#  icon: "fab fa-github"
+
+#- type: twitter
+#  icon: "fa-brands fa-x-twitter"
+
+
+- type: whatsapp
+  icon: 'fab fa-whatsapp'
+  url: 'https://wa.me/593987787371'
+
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
+  url: 'mailto:rodri-651@hotmail.com'
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+#- type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
