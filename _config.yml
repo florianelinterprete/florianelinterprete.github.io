@@ -14,19 +14,19 @@ timezone: America/Guayaquil
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Soldador en Quito # the main title
+title: Florian title # the main title
 
-tagline: GMAW, GTAW, SMAW, FCAW # it will display as the subtitle
+tagline: tagline 4 personal blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Jaime Rodrigo solda GMAW, GTAW, SMAW, FCAW. Techos; pasamanos; rejas.
+  the description for SEO
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://rodrigoelsoldador.github.io"
+url: "https://florianelinterprete.github.io"
 
 github:
-  username: rodrigoelsoldador # change to your GitHub username
+  username: florianelinterprete # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -34,8 +34,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Jaime Rodrigo Sango Cóndor.
-  email: rodri-651@hotmail.com # change to your email address
+  name: Florian Winkler
+  email: "winkler.f@hotmail.de" # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
