@@ -2,11 +2,11 @@
 
 - type: facebook
   icon: 'fab fa-facebook'
-  url: 'https://www.facebook.com/jaimerodrigo.sangocondor'
+  url: 'https://www.facebook.com/nairolf.relkniw'
 
 - type: instagram
   icon: 'fab fa-instagram'
-  url: 'https://www.instagram.com/rodrigoelsoldador'
+  url: 'https://www.instagram.com/floria_n87'
 
 #- type: github
 #  icon: "fab fa-github"
@@ -17,13 +17,13 @@
 
 - type: whatsapp
   icon: 'fab fa-whatsapp'
-  url: 'https://wa.me/593987787371'
+  url: 'https://wa.me/4915168767665'
 
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
-  url: 'mailto:rodri-651@hotmail.com'
+  url: 'mailto:winkler.f@hotmail.de'
 
 #- type: rss
 #  icon: "fas fa-rss"
@@ -34,9 +34,9 @@
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/florian-winkler-948743b3/'                  # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'

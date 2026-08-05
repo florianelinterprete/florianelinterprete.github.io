@@ -1,10 +1,11 @@
 ---
-title: "Google Console"
-date: 2026-08-03 11:05:00
-categories: [about jaime]
-tags: [Jaime Rodrigo]
+title: "Disable Cache"
+date: 2026-08-05 10:10:00
+categories: []
+tags: []
+image: assets/disableCache.png
 ---
 
-# Hola amigos, que pasa?
+Um den Browser am Zwischenspeichern zu hindern, kann man in den Entwicklertools von Chrome den Cache (Zwischenspeicher) deaktivieren.
 
-El proposito de todo esto es permitir a usuarios a encontrar el soldador Jaime Rodrigo, que hace un buen trabajo. Pero si nada lo sabe, nada lo contrata!
+Das ist wesentlich angehmer als immer ein Incognito-Fenster zu öffnen.
