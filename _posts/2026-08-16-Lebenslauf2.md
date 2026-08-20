@@ -200,7 +200,8 @@ Schwerpunkte: Simultandolmetschen, Konsekutivdolmetschen,
 <div class="cv-language">
 <div class="cv-language-name">
 <span>🇪🇸</span>
-<strong>Spanisch</strong>
+<strong><a href="{{ '/c1-spanisch/' | relative_url }}">Spanisch</a></strong>
+
 </div>
 <span>C2 · Verhandlungssicher</span>
 <div class="cv-language-bar">
