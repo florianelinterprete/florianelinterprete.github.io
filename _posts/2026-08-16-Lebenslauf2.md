@@ -210,10 +210,10 @@ Schwerpunkte: Simultandolmetschen, Konsekutivdolmetschen,
 
 <div class="cv-language">
 <div class="cv-language-name">
-<span>🇪🇸</span>
+<span>🇷🇺</span>
 <strong><a href="{{ '/c1-russisch/' | relative_url }}">Russisch</a></strong>
 </div>
-<span>C1</span>
+<span>B2</span>
 <div class="cv-language-bar">
 <span style="width: 95%;"></span>
 </div>
