@@ -1,7 +1,7 @@
 ---
 title: "Lebenslauf"
-icon: fas fa-user-tie
-order: 1
+icon: fas fa-briefcase
+order: 5
 ---
 
 <div class="cv-header">
