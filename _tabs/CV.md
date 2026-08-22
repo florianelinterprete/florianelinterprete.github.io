@@ -9,7 +9,7 @@ order: 5
 <h1>Florian Winkler</h1>
 
 <p class="cv-title">
-Master Konferenzdolmetschen · Sprachdozent
+Übersetzer · Dolmetscher · Sprachdozent
 </p>
 
 <p class="cv-description">
@@ -37,83 +37,42 @@ Deutsch, Englisch, Französisch und Spanisch.
 
 ## <i class="fas fa-user"></i> Profil
 
-<em>Language Specialist</em> mit Englisch, Französisch, Spanisch und Russisch
-
 <em>Deutsch-Dozent</em> mit BAMF-Zulassung gemäß §15 Integrationsverordnung, AEVO-Zertifikat und 150 UE BSK-Erfahrung. (500 UE + AEVO = BSK Zulassung)
 
 ---
 
 ## <i class="fas fa-briefcase"></i> Berufserfahrung
 
-<div class="cv-timeline">
 
-<div class="cv-timeline-item">
-
-<div class="cv-timeline-date">
 2020 – heute
-</div>
 
-<div class="cv-timeline-content">
+**Freiberuflicher Übersetzer und Konferenzdolmetscher**  
+**Düsseldorf · Deutschland**
 
-<h3>Freiberuflicher Übersetzer und Konferenzdolmetscher</h3>
+- Konferenz- und Verhandlungsdolmetschen
+- Fachübersetzungen in technischen und rechtlichen Bereichen
+- Übersetzung von Verträgen und behördlichen Dokumenten
+- Terminologiearbeit und Qualitätssicherung
+- Betreuung internationaler Kunden
 
-<p><strong>Düsseldorf · Deutschland</strong></p>
-
-<ul>
-<li>Konferenz- und Verhandlungsdolmetschen</li>
-<li>Fachübersetzungen in technischen und rechtlichen Bereichen</li>
-<li>Übersetzung von Verträgen und behördlichen Dokumenten</li>
-<li>Terminologiearbeit und Qualitätssicherung</li>
-<li>Betreuung internationaler Kunden</li>
-</ul>
-
-</div>
-</div>
-
-<div class="cv-timeline-item">
-
-<div class="cv-timeline-date">
 2017 – 2020
-</div>
 
-<div class="cv-timeline-content">
+**Übersetzer und Dolmetscher**  
+**Beispielunternehmen · Düsseldorf**
 
-<h3>Übersetzer und Dolmetscher</h3>
+- Technische und geschäftliche Übersetzungen
+- Dolmetschen bei Besprechungen und Verhandlungen
+- Betreuung internationaler Geschäftspartner
+- Terminologiemanagement
 
-<p><strong>Beispielunternehmen · Düsseldorf</strong></p>
-
-<ul>
-<li>Technische und geschäftliche Übersetzungen</li>
-<li>Dolmetschen bei Besprechungen und Verhandlungen</li>
-<li>Betreuung internationaler Geschäftspartner</li>
-<li>Terminologiemanagement</li>
-</ul>
-
-</div>
-</div>
-
-<div class="cv-timeline-item">
-
-<div class="cv-timeline-date">
 2014 – 2017
-</div>
 
-<div class="cv-timeline-content">
+**Übersetzer**  
+**Beispielagentur · Deutschland**
 
-<h3>Übersetzer</h3>
-
-<p><strong>Beispielagentur · Deutschland</strong></p>
-
-<ul>
-<li>Übersetzung und Lektorat</li>
-<li>Qualitätskontrolle</li>
-<li>Terminologieverwaltung</li>
-</ul>
-
-</div>
-</div>
-
-</div>
+- Übersetzung und Lektorat
+- Qualitätskontrolle
+- Terminologieverwaltung
 
 ---
 
@@ -315,27 +274,3 @@ Schwerpunkte: Simultandolmetschen, Konsekutivdolmetschen,
 
 </div>
 
----
-
-<div class="cv-contact">
-
-<h2><i class="fas fa-address-card"></i> Kontakt</h2>
-
-<p>
-Sie suchen einen Übersetzer oder Dolmetscher?
-Ich freue mich über Ihre Nachricht.
-</p>
-
-<div class="cv-buttons">
-
-<a href="mailto:florian@example.com">
-<i class="fas fa-envelope"></i> E-Mail schreiben
-</a>
-
-<a href="https://www.linkedin.com/">
-<i class="fab fa-linkedin"></i> LinkedIn
-</a>
-
-</div>
-
-</div>
