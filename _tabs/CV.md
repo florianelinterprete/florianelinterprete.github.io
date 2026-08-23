@@ -42,81 +42,191 @@ Deutsch, Englisch, Französisch und Spanisch.
 ---
 
 ## <i class="fas fa-briefcase"></i> Berufserfahrung
+<details open>
+<summary>2026</summary>
+
+hab'sch nix gemacht! Frijoles
+
+</details>
+
+<details>
+<summary>2025</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2024</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2023</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2022</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2021</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2020</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2019</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2018</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2017</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2016</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2015</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2014</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2013</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2012</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2011</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2010</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2009</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2008</summary>
+
+Beispieltext
+
+</details>
+
+<details>
+<summary>2007</summary>
+
+Beispieltext
 
 
-2020 – heute
-
-**Freiberuflicher Übersetzer und Konferenzdolmetscher**  
-**Düsseldorf · Deutschland**
-
-- Konferenz- und Verhandlungsdolmetschen
-- Fachübersetzungen in technischen und rechtlichen Bereichen
-- Übersetzung von Verträgen und behördlichen Dokumenten
-- Terminologiearbeit und Qualitätssicherung
-- Betreuung internationaler Kunden
-
-2017 – 2020
-
-**Übersetzer und Dolmetscher**  
-**Beispielunternehmen · Düsseldorf**
-
-- Technische und geschäftliche Übersetzungen
-- Dolmetschen bei Besprechungen und Verhandlungen
-- Betreuung internationaler Geschäftspartner
-- Terminologiemanagement
-
-2014 – 2017
-
-**Übersetzer**  
-**Beispielagentur · Deutschland**
-
-- Übersetzung und Lektorat
-- Qualitätskontrolle
-- Terminologieverwaltung
-
+</details>
 ---
 
 ## <i class="fas fa-graduation-cap"></i> Ausbildung
 
-<div class="cv-timeline">
+<details>
+<summary>Dolmetschen Leipzig</summary>
 
-<div class="cv-timeline-item">
+Beispieltext
 
-<div class="cv-timeline-date">
-2010 – 2013
-</div>
+</details>
 
-<div class="cv-timeline-content">
+<details>
+<summary>Übersetzen HD</summary>
 
-<h3>Master of Arts · Konferenzdolmetschen</h3>
+Beispieltext
 
-<p><strong>Universität Leipzig</strong></p>
+</details>
 
-<p>
-Schwerpunkte: Simultandolmetschen, Konsekutivdolmetschen,
-Übersetzungswissenschaft und Terminologiemanagement.
-</p>
+<details>
+<summary>Chemie RUB</summary>
 
-</div>
-</div>
+</details>
 
-<div class="cv-timeline-item">
+<details open>
+<summary>Abitur</summary>
 
-<div class="cv-timeline-date">
-2007 – 2010
-</div>
+<table align="left">
+  <tr>
+    <th align="left">Jahr</th>
+    <th align="left">Schule</th>
+    <th align="left">Noten</th>
+  </tr>
 
-<div class="cv-timeline-content">
+  <tr>
+    <td align="left">2006</td>
+    <td align="left"><strong><a href="{{ '/abiturnoten/' | relative_url }}">Otto-Pankok-Schule Gymnasium der Stadt Mülheim an der Ruhr</a></strong></td>
+    <td align="left">
+      Englisch – 13/14<br>
+      Französisch – 13/14<br>
+      Mathematik – 13/14
+    </td>
+  </tr>
+</table>
 
-<h3>Bachelor of Arts · Sprachwissenschaft</h3>
-
-<p><strong>Universität Beispielstadt</strong></p>
-
-</div>
-</div>
-
-</div>
-
+</details>
 ---
 
 ## <i class="fas fa-language"></i> Sprachen
