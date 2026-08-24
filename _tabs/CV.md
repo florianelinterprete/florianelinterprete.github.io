@@ -188,9 +188,8 @@ Beispieltext
 
 <details open>
 <summary>Master of Arts</summary>
-<strong>in Konferenzdolmetschen mit <a href="{{ '/c2-franzoesisch/' | relative_url }}">
-Französisch
-</a> und Englisch</strong>
+<strong>in Konferenzdolmetschen mit 
+<a href="{{ '/c2-franzoesisch/' | relative_url }}">Französisch</a> und Englisch</strong>
 
 
 </details>
@@ -237,27 +236,16 @@ Spanisch
 </details>
 ---
 
-## <i class="fas fa-language"></i> Sprachen
+## <i class="fas fa-language"></i> Fremdsprachenkenntnisse
 
 <div class="cv-languages">
 
 <div class="cv-language">
 <div class="cv-language-name">
-<span>🇩🇪</span>
-<strong>Deutsch</strong>
-</div>
-<span>Muttersprache</span>
-<div class="cv-language-bar">
-<span style="width: 100%;"></span>
-</div>
-</div>
-
-<div class="cv-language">
-<div class="cv-language-name">
 <span>🇬🇧</span>
-<strong>Englisch</strong>
+<strong><a href="{{ '/c2-englisch/' | relative_url }}">Englisch</a></strong>
 </div>
-<span>C2 · Verhandlungssicher</span>
+<span>· C2 </span>
 <div class="cv-language-bar">
 <span style="width: 95%;"></span>
 </div>
@@ -266,9 +254,9 @@ Spanisch
 <div class="cv-language">
 <div class="cv-language-name">
 <span>🇫🇷</span>
-<strong>Französisch</strong>
+<strong><a href="{{ '/c2-franzoesisch/' | relative_url }}">Französisch</a></strong>
 </div>
-<span>C2 · Verhandlungssicher</span>
+<span>· C2 </span>
 <div class="cv-language-bar">
 <span style="width: 95%;"></span>
 </div>
@@ -280,7 +268,7 @@ Spanisch
 <strong><a href="{{ '/c1-spanisch/' | relative_url }}">Spanisch</a></strong>
 
 </div>
-<span>C2 · Verhandlungssicher</span>
+<span>· C2 </span>
 <div class="cv-language-bar">
 <span style="width: 95%;"></span>
 </div>
@@ -291,7 +279,7 @@ Spanisch
 <span>🇷🇺</span>
 <strong><a href="{{ '/c1-russisch/' | relative_url }}">Russisch</a></strong>
 </div>
-<span>B2</span>
+<span>· B2 / ТРКИ II</span>
 <div class="cv-language-bar">
 <span style="width: 95%;"></span>
 </div>
