@@ -309,6 +309,9 @@ Spanisch
 <i class="fas fa-chalkboard-teacher"></i>
 <h3>BAMF</h3>
 <p>Zulassung als Lehrkraft für Integrationskurse</p>
+<strong>Auf dem Weg zu einer
+<a href="{{ '/BSK_howto/' | relative_url }}">BSK-Direktzulassung</a>
+</strong>
 </div>
 
 <div class="cv-card">
