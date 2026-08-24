@@ -186,17 +186,23 @@ Beispieltext
 
 ## <i class="fas fa-graduation-cap"></i> Ausbildung
 
-<details>
-<summary>Dolmetschen Leipzig</summary>
+<details open>
+<summary>Master of Arts</summary>
+<strong>in Konferenzdolmetschen mit <a href="{{ '/c2-franzoesisch/' | relative_url }}">
+Französisch
+</a> und Englisch</strong>
 
-Beispieltext
 
 </details>
 
-<details>
-<summary>Übersetzen HD</summary>
+<details open>
 
-Beispieltext
+<summary>
+Bachelor of Arts
+</summary>
+<strong>Übersetzungswissenschaften mit Französisch, <a href="{{ '/c1-spanisch/' | relative_url }}">
+Spanisch
+</a> und Fachrichtung BWL</strong>
 
 </details>
 
@@ -208,23 +214,25 @@ Beispieltext
 <details open>
 <summary>Abitur</summary>
 
-<table align="left">
+<div class="table-wrapper">
+<table>
   <tr>
-    <th align="left">Jahr</th>
-    <th align="left">Schule</th>
-    <th align="left">Noten</th>
+    <td style="text-align: left">Jahr</td>
+    <td style="text-align: left">Schule</td>
+    <td style="text-align: left">Noten</td>
   </tr>
 
   <tr>
-    <td align="left">2006</td>
-    <td align="left"><strong><a href="{{ '/abiturnoten/' | relative_url }}">Otto-Pankok-Schule Gymnasium der Stadt Mülheim an der Ruhr</a></strong></td>
-    <td align="left">
+    <td style="text-align:left">2006</td>
+    <td style="text-align:left"><strong><a href="{{ '/abiturnoten/' | relative_url }}">Otto-Pankok-Schule Gymnasium der Stadt Mülheim an der Ruhr</a></strong></td>
+    <td style="text-align:left">
       Englisch – 13/14<br>
       Französisch – 13/14<br>
       Mathematik – 13/14
     </td>
   </tr>
 </table>
+</div>
 
 </details>
 ---
