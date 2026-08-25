@@ -242,10 +242,9 @@ Spanisch
 
 <div class="cv-language">
 <div class="cv-language-name">
-<span>🇬🇧</span>
-<strong><a href="{{ '/c2-englisch/' | relative_url }}">Englisch</a></strong>
+🇬🇧 <strong><a href="{{ '/c2-englisch/' | relative_url }}">Englisch</a></strong> · C2
 </div>
-<span>· C2 </span>
+
 <div class="cv-language-bar">
 <span style="width: 95%;"></span>
 </div>
@@ -253,10 +252,8 @@ Spanisch
 
 <div class="cv-language">
 <div class="cv-language-name">
-<span>🇫🇷</span>
-<strong><a href="{{ '/c2-franzoesisch/' | relative_url }}">Französisch</a></strong>
+🇫🇷 <strong><a href="{{ '/c2-franzoesisch/' | relative_url }}">Französisch</a></strong> · C2
 </div>
-<span>· C2 </span>
 <div class="cv-language-bar">
 <span style="width: 95%;"></span>
 </div>
@@ -264,11 +261,9 @@ Spanisch
 
 <div class="cv-language">
 <div class="cv-language-name">
-<span>🇪🇸</span>
-<strong><a href="{{ '/c1-spanisch/' | relative_url }}">Spanisch</a></strong>
+🇪🇸 <strong><a href="{{ '/c1-spanisch/' | relative_url }}">Spanisch</a></strong> · C2
 
 </div>
-<span>· C2 </span>
 <div class="cv-language-bar">
 <span style="width: 95%;"></span>
 </div>
@@ -276,10 +271,8 @@ Spanisch
 
 <div class="cv-language">
 <div class="cv-language-name">
-<span>🇷🇺</span>
-<strong><a href="{{ '/c1-russisch/' | relative_url }}">Russisch</a></strong>
+🇷🇺 <strong><a href="{{ '/c1-russisch/' | relative_url }}">Russisch</a></strong> · B2 / ТРКИ II
 </div>
-<span>· B2 / ТРКИ II</span>
 <div class="cv-language-bar">
 <span style="width: 95%;"></span>
 </div>
@@ -294,31 +287,58 @@ Spanisch
 <div class="cv-cards">
 
 <div class="cv-card">
-<i class="fas fa-award"></i>
-<h3>Staatlich geprüft</h3>
-<p>Staatlich geprüfter Übersetzer</p>
+<details>
+<summary><i class="fas fa-award"></i> Öffentlich bestellt</summary>
+<p>durch die nach dem Landesrecht von Rheinland-Pfalz zuständige Stelle</p>
+<p>durch die nach dem Landesrecht von Nordrhein-Westfalen zuständige Stelle</p>
+
+Das Pfälzische Oberlandesgericht Zweibrücken (2018) und das Oberlandesgericht Düsseldorf (2020) haben die <strong>fachliche Eignung</strong> überprüft.
+
+</details>
 </div>
 
 <div class="cv-card">
-<i class="fas fa-gavel"></i>
-<h3>Beeidigt</h3>
-<p>Öffentlich bestellter und allgemein beeidigter Übersetzer und Dolmetscher</p>
+<details>
+<summary><i class="fas fa-gavel"></i> Allgemein beeidigt</summary>
+<p>Der vorsitzende Richter fragt den Dolmetscher, ob er sich auf seinen allgemeine Beeidigung beruft, sodass eine erneute Beeidigung für den konkreten Termin entfällt.</p>
+<img src="/assets/ichSchwoere.jpg">
+</details>
 </div>
 
 <div class="cv-card">
-<i class="fas fa-chalkboard-teacher"></i>
-<h3>BAMF</h3>
+<details>
+<summary><i class="fas fa-chalkboard-teacher"></i> Int-Zulassung</summary>
 <p>Zulassung als Lehrkraft für Integrationskurse</p>
 <strong>Auf dem Weg zu einer
 <a href="{{ '/BSK_howto/' | relative_url }}">BSK-Direktzulassung</a>
 </strong>
+</details>
 </div>
 
 <div class="cv-card">
-<i class="fas fa-user-graduate"></i>
-<h3>AEVO</h3>
-<p>Ausbildereignungsprüfung</p>
+<details>
+<summary><i class="fas fa-user-graduate"></i> BSK-Zulassung</summary>
+<p>Auf dem Weg zu einer</p>
+<strong>
+<a href="{{ '/BSK_howto/' | relative_url }}">Berufsschulkurs-Direktzulassung</a>. 
+</strong>
+</details>
 </div>
+
+<div class="cv-card">
+<details>
+<summary><i class="fa-solid fa-people-group"></i><a href="{{ '/AEVO/' | relative_url }}"> AEVO</a></summary>
+Die Ausbildung der Ausbilder. Da ich viele Austausche in der beruflichen Bildung betreut habe als Französischdolmetscher bin ich mit der Berufsausbildung in Deutschland und Frankreich vertraut.
+</details>
+</div>
+
+<div class="cv-card">
+<details>
+<summary><i class="fa-solid fa-user-secret"></i><a href="{{ '/Sachkunde/' | relative_url }}"> § 34a GewO</a></summary>
+<p> Relevanter Text</p>
+</details>
+</div> 
+
 
 </div>
 
