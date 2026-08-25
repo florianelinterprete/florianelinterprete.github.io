@@ -301,7 +301,7 @@ Das Pfälzische Oberlandesgericht Zweibrücken (2018) und das Oberlandesgericht 
 <details>
 <summary><i class="fas fa-gavel"></i> Allgemein beeidigt</summary>
 <p>Der vorsitzende Richter fragt den Dolmetscher, ob er sich auf seinen allgemeine Beeidigung beruft, sodass eine erneute Beeidigung für den konkreten Termin entfällt.</p>
-<img src="/assets/ichSchwoere.jpg">
+<img src="/assets/ichSchwoere.jpg" alt="Wer beeidigt wen?">
 </details>
 </div>
 

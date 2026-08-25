@@ -1,8 +1,8 @@
 ---
 title: "Öffentlich bestellt & allgemein beeidigt"
 date: 2026-08-05 11:05:00
-categories: [the y, Warum ein Blog?]
-tags: []
+categories:
+tags:
 image: ./assets/justizD.jpg
 ---
 

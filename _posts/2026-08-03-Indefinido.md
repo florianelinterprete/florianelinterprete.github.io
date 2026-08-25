@@ -1,8 +1,8 @@
 ---
 title: "Indefinido"
 date: 2026-08-05 11:05:00
-categories: [indefinido]
-tags: []
+categories:
+tags:
 image: ./assets/dormir_indefinido.jpeg
 ---
 
