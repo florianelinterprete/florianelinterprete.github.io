@@ -380,23 +380,48 @@ Die Ausbildung der Ausbilder. Da ich viele Austausche in der beruflichen Bildung
 <div>
 <i class="fas fa-running"></i>
 <strong>Calisthenics</strong>
-<span>Ich trainiere für die Rückwärdsrolle (siehe IG)</span>
+<span>Ich trainiere für die Rückwärdsrolle (siehe <a href="https://www.instagram.com/floria_n87/"><i class="fa-brands fa-instagram"></i></a>)</span>
 </div>
 
 <div>
 <i class="fas fa-mountain"></i>
 <strong>Running</strong>
-<span>Ich trainiere für einen Marathon (siehe <a href="https://www.strava.com/athletes/198313342">Strava</a>)</span>
+<details><summary>Ich trainiere für einen Marathon (siehe <a href="https://www.strava.com/athletes/198313342"><i class="fa-brands fa-strava"></i> Strava</a>)</summary>
+
+<img src="/assets/stravaBogota.png" alt="Bogota run">
+
+</details>
 </div>
 
 <div>
-<i class="fas fa-tools"></i>
-<strong>Technik</strong>
-<span>Schweißtechnik · Metallbau · DIY</span>
+<i class="fas fa-tools"></i> <strong>Beton, Stahl, Holz</strong>
+Ich interessiere mich für raumeinschließende Strukturen jeder Art und die dafür nötigen <details><summary>Technologien.</summary>
+
+Ich bin Admin von <a href="https://www.facebook.com/groups/acidome.calc">Acidome</a>, einem Berechnungstool für geodätische Kuppeln, und habe diese Strukturen <a href="https://www.youtube.com/watch?v=dZf6NKMaQbU&t=304s">studiert</a>.
+
+Tatsächlich beruhen diese Strukturen auf Schifterschnitten. Dieses spannende Thema findet man auch bei Dachdeckern. 
+
+</details> 
+
+<ul>
+<li>Metallbau-Handwerk</li>
+<li>Dachdecker-Handwerk</li>
+<li>Schreiner-Handwerk</li>
+<li>Trockenbau-Handwerk</li>
+<li>Maurer-Handwerk</li>
+<li>Lehmbau-Handwerk</li>
+<li>Bushcraft</li>
+</ul>
+
+
+
+
+
+
 </div>
 
 <div>
-<i class="fas fa-code"></i>
+<i class="fas fa-globe"></i>
 <strong>Sprachenlernen</strong>
 <span>Eines Tages möchte ich ТРКИ-III / C1 bestehen</span>
 </div>

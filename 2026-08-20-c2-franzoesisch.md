@@ -5,7 +5,7 @@ title: "C2 Französisch"
 permalink: /c2-franzoesisch/
 ---
 
-## Über mich
+[zurück]({% link _tabs/CV.md %})
 
 Ein Master Konferenzdolmetschen entspricht C2.
 
