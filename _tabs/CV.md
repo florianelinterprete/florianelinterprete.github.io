@@ -388,7 +388,21 @@ Die Ausbildung der Ausbilder. Da ich viele Austausche in der beruflichen Bildung
 <strong>Running</strong>
 <details><summary>Ich trainiere für einen Marathon (siehe <a href="https://www.strava.com/athletes/198313342"><i class="fa-brands fa-strava"></i> Strava</a>)</summary>
 
+<details><summary>Bogota</summary>
 <img src="/assets/stravaBogota.png" alt="Bogota run">
+</details>
+
+<details><summary>Cali</summary>
+<img src="/assets/stravaCali.png" alt="Cali run">
+</details>
+
+<details><summary>Quito</summary>
+<img src="/assets/stravaQuito.png" alt="Quito run">
+</details>
+
+<details><summary>Lima</summary>
+<img src="/assets/stravaLima.png" alt="Lima run">
+</details>
 
 </details>
 </div>
