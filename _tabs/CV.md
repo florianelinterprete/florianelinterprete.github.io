@@ -271,7 +271,7 @@ Spanisch
 
 <div class="cv-language">
 <div class="cv-language-name">
-🇷🇺 <strong><a href="{{ '/c1-russisch/' | relative_url }}">Russisch</a></strong> · B2 / ТРКИ II
+🇷🇺 <strong><a href="{{ '/b2-russisch/' | relative_url }}">Russisch</a></strong> · B2 / ТРКИ II
 </div>
 <div class="cv-language-bar">
 <span style="width: 95%;"></span>
@@ -309,19 +309,13 @@ Das Pfälzische Oberlandesgericht Zweibrücken (2018) und das Oberlandesgericht 
 <details>
 <summary><i class="fas fa-chalkboard-teacher"></i> Int-Zulassung</summary>
 <p>Zulassung als Lehrkraft für Integrationskurse</p>
-<strong>Auf dem Weg zu einer
-<a href="{{ '/BSK_howto/' | relative_url }}">BSK-Direktzulassung</a>
-</strong>
 </details>
 </div>
 
 <div class="cv-card">
 <details>
 <summary><i class="fas fa-user-graduate"></i> BSK-Zulassung</summary>
-<p>Auf dem Weg zu einer</p>
-<strong>
-<a href="{{ '/BSK_howto/' | relative_url }}">Berufsschulkurs-Direktzulassung</a>. 
-</strong>
+Auf dem Weg zu einer <a href="{{ '/BSK_howto/' | relative_url }}">Berufsschulkurs-Direktzulassung</a>. 
 </details>
 </div>
 
@@ -375,18 +369,30 @@ Die Ausbildung der Ausbilder. Da ich viele Austausche in der beruflichen Bildung
 
 ## <i class="fas fa-heart"></i> Interessen
 
-<div class="cv-interests">
 
-<div>
-<i class="fas fa-running"></i>
-<strong>Calisthenics</strong>
-<span>Ich trainiere für die Rückwärdsrolle (siehe <a href="https://www.instagram.com/floria_n87/"><i class="fa-brands fa-instagram"></i></a>)</span>
+<div class="cv-card">
+<details>
+<summary><i class="fas fa-dumbbell"></i> Körpergewichttraining</summary>
+Ich trainiere für die Rückwärdsrolle (siehe <a href="https://www.instagram.com/floria_n87/"><i class="fa-brands fa-instagram"></i></a>)
+</details>
 </div>
 
-<div>
-<i class="fas fa-mountain"></i>
-<strong>Running</strong>
-<details><summary>Ich trainiere für einen Marathon (siehe <a href="https://www.strava.com/athletes/198313342"><i class="fa-brands fa-strava"></i> Strava</a>)</summary>
+
+
+
+
+
+
+
+<div class="cv-card">
+<details>
+<summary><i class="fas fa-running"></i> Lauftraining</summary>
+
+Ich trainiere für einen Marathon.
+
+<details><summary>siehe Strava</summary>
+<a href="https://www.strava.com/athletes/198313342"><i class="fa-brands fa-strava"></i> Strava</a>
+</details>
 
 <details><summary>Bogota</summary>
 <img src="/assets/stravaBogota.png" alt="Bogota run">
@@ -407,38 +413,28 @@ Die Ausbildung der Ausbilder. Da ich viele Austausche in der beruflichen Bildung
 </details>
 </div>
 
-<div>
-<i class="fas fa-tools"></i> <strong>Beton, Stahl, Holz</strong>
-Ich interessiere mich für raumeinschließende Strukturen jeder Art und die dafür nötigen <details><summary>Technologien.</summary>
+
+
+
+
+<div class="cv-card">
+<details>
+<summary><i class="fas fa-dumbbell"></i> Raumeinschließende Strukturen</summary>
+Ich interessiere mich für geodätische Kuppeln, Jurten und klassische Bauprojekte (siehe <a href="https://www.youtube.com/watch?v=TFV-O8Rdz04"><i class="fab fa-youtube"></i></a>).
 
 Ich bin Admin von <a href="https://www.facebook.com/groups/acidome.calc">Acidome</a>, einem Berechnungstool für geodätische Kuppeln, und habe diese Strukturen <a href="https://www.youtube.com/watch?v=dZf6NKMaQbU&t=304s">studiert</a>.
 
-Tatsächlich beruhen diese Strukturen auf Schifterschnitten. Dieses spannende Thema findet man auch bei Dachdeckern. 
-
-</details> 
-
-<ul>
-<li>Metallbau-Handwerk</li>
-<li>Dachdecker-Handwerk</li>
-<li>Schreiner-Handwerk</li>
-<li>Trockenbau-Handwerk</li>
-<li>Maurer-Handwerk</li>
-<li>Lehmbau-Handwerk</li>
-<li>Bushcraft</li>
-</ul>
-
-
-
-
-
-
+Tatsächlich beruhen diese Strukturen auf Schifterschnitten. Dieses spannende Thema findet man auch bei Dachdeckern.
+</details>
 </div>
 
-<div>
-<i class="fas fa-globe"></i>
-<strong>Sprachenlernen</strong>
-<span>Eines Tages möchte ich ТРКИ-III / C1 bestehen</span>
-</div>
 
-</div>
 
+
+<div class="cv-card">
+<details>
+<summary><i class="fas fa-globe"></i> Sprachenlernen</summary>
+
+Eines Tages möchte ich ТРКИ-III / C1 bestehen
+</details>
+</div>
