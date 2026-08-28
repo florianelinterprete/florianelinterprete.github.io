@@ -50,16 +50,17 @@ hab'sch nix gemacht! Frijoles
 </details>
 
 <details>
-<summary>2025</summary>
+<summary>2025 - Bildungskreis Handwerk</summary>
 
-Beispieltext
+Online-BSK-Kurs dank geltender Ausnahmegenehmigung, 
+<a href="{{ '/bskBildungskreis/' | relative_url }}">60 UE</a>
 
 </details>
 
 <details>
-<summary>2024</summary>
+<summary>2024 - Berlitz DeuFöv</summary>
 
-Beispieltext
+BSK-Kurs dank geltender Ausnahmegenehmigung, <a href="{{ '/bskBildungskreis/' | relative_url }}">90 UE</a>
 
 </details>
 
@@ -186,15 +187,15 @@ Beispieltext
 
 ## <i class="fas fa-graduation-cap"></i> Ausbildung
 
-<details open>
+<details>
 <summary>Master of Arts</summary>
-<strong>in Konferenzdolmetschen mit 
-<a href="{{ '/c2-franzoesisch/' | relative_url }}">Französisch</a> und Englisch</strong>
+in Konferenzdolmetschen mit 
+<a href="{{ '/c2-franzoesisch/' | relative_url }}">Französisch</a> und Englisch
 
 
 </details>
 
-<details open>
+<details><!-- gut zu wissen dass details open funktioniert aber hier unschoen -->
 
 <summary>
 Bachelor of Arts
@@ -206,11 +207,13 @@ Spanisch
 </details>
 
 <details>
-<summary>Chemie RUB</summary>
+<summary>2-Fach-Bachelor Romanische Philolologie Französisch und Chemie</summary>
+
+<img src="/assets/exma.png" alt="Exmatrikulation RUB" style="width: 55%">
 
 </details>
 
-<details open>
+<details>
 <summary>Abitur</summary>
 
 <div class="table-wrapper">
