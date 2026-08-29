@@ -1,0 +1,17 @@
+---
+layout: page
+date: 2026-08-20 18:00:00
+title: 
+permalink: /bskBildungskreis/
+---
+
+[zurück]({% link _tabs/CV.md %})
+
+Flüsterdolmetschen mit PFA beim Amt für Bundesbau. Viele Übersetzungen zu Themen wie Bau, Umweltschutz, Wasser, Flugrecht.
+
+<iframe
+  src="{{ '/assets/bskBildungskreis.pdf' | relative_url}}"
+  width="100%"
+  height="800px"
+  style="border: none;">
+</iframe>
