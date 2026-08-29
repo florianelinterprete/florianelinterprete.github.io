@@ -60,7 +60,7 @@ Online-BSK-Kurs dank geltender Ausnahmegenehmigung,
 <details>
 <summary>2024 - Berlitz DeuFöv</summary>
 
-BSK-Kurs dank geltender Ausnahmegenehmigung, <a href="{{ '/bskBildungskreis/' | relative_url }}">90 UE</a>
+BSK-Kurs dank geltender Ausnahmegenehmigung, <a href="{{ '/bskBerlitz/' | relative_url }}">90 UE</a>
 
 </details>
 
@@ -107,16 +107,21 @@ Beispieltext
 </details>
 
 <details>
-<summary>2017</summary>
+<summary>2016 - Gaststreitkräfte Ramstein-Miesenbach</summary>
 
-Beispieltext
+09/2016 - 03/2019
+
+USAFE-A8ZE <a href="{{ '/usafe/' | relative_url }}">language specialist</a>
 
 </details>
 
 <details>
-<summary>2016</summary>
+<summary>2016 - Welocalize</summary>
 
-Beispieltext
+03/2016 - 06/2016
+
+<a href="{{ '/welocalize/' | relative_url }}">Praktik und als Übersetzer</a> Englisch-Deutsch hauptsächlich zum Thema Datenspeicherung, Virtualisierung und Cloud-Infrastruktur.
+
 
 </details>
 
@@ -135,9 +140,14 @@ Beispieltext
 </details>
 
 <details>
-<summary>2013</summary>
+<summary>2013 - Sprachbegleitung für DFS-SFA</summary>
 
-Beispieltext
+23/09/2013 - 11/10/2013
+
+<a href="{{ '/longvic/' | relative_url }}">Französisch für DFS-SFA</a>.
+
+DFS: Deutsch-Französisches-Sekretariat
+SFA: sécretariat-franco-allemand
 
 </details>
 
@@ -149,9 +159,14 @@ Beispieltext
 </details>
 
 <details>
-<summary>2011</summary>
+<summary>2011 - Sprachbegleitung Bergerac</summary>
 
-Beispieltext
+17/09/2011 - 08/10/2011
+
+<a href="{{ '/bergerac/' | relative_url }}">Französisch für DFS-SFA</a>.
+
+DFS: Deutsch-Französisches-Sekretariat
+SFA: sécretariat-franco-allemand
 
 </details>
 
@@ -292,8 +307,10 @@ Spanisch
 <div class="cv-card">
 <details>
 <summary><i class="fas fa-award"></i> Öffentlich bestellt</summary>
-<p>durch die nach dem Landesrecht von Rheinland-Pfalz zuständige Stelle</p>
-<p>durch die nach dem Landesrecht von Nordrhein-Westfalen zuständige Stelle</p>
+<ul>
+<li>durch die nach dem Landesrecht von Rheinland-Pfalz zuständige Stelle</li>
+<li>durch die nach dem Landesrecht von Nordrhein-Westfalen zuständige Stelle</li>
+</ul>
 
 Das Pfälzische Oberlandesgericht Zweibrücken (2018) und das Oberlandesgericht Düsseldorf (2020) haben die <strong>fachliche Eignung</strong> überprüft.
 

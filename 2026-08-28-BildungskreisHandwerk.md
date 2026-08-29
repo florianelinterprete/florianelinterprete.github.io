@@ -7,8 +7,6 @@ permalink: /bskBildungskreis/
 
 [zurück]({% link _tabs/CV.md %})
 
-[go back]({% link _tabs/CV.md %})
-
 Dieser Kurs fand über die Plattform Seconos LMS online statt. Alle Teilnehmer waren lernstarke Ukrainer. 
 
 <iframe
