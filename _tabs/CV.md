@@ -64,10 +64,16 @@ BSK-Kurs dank geltender Ausnahmegenehmigung, <a href="{{ '/bskBerlitz/' | relati
 
 </details>
 
-<details>
-<summary>2023</summary>
+<details>>
 
-Beispieltext
+<summary>223 - Sprachbegleitung in St. Augustin </summary>
+
+13/11/2023 - 24/11/2023
+
+<a href="{{ '/staugustin/' | relative_url }}">Sprachbegleitung für ProTandem</a>.<br>
+
+ProTandem (DFS-SFA)
+
 
 </details>
 
@@ -93,21 +99,29 @@ Beispieltext
 </details>
 
 <details>
-<summary>2019</summary>
+<summary>2019 - Sprachbegleitung in Springe</summary>
 
-Beispieltext
+04/11/2019 - 22/11/2019
 
-</details>
+<a href="{{ '/springe/' | relative_url }}">Sprachbegleitung für ProTandem</a>.<br>
 
-<details>
-<summary>2018</summary>
-
-Beispieltext
+ProTandem (DFS-SFA)
 
 </details>
 
 <details>
-<summary>2016 - Gaststreitkräfte Ramstein-Miesenbach</summary>
+<summary>2018 - Sprachbegleitung Lübeck-Travemünde</summary>
+
+09/11/2014 - 28/11/2014
+
+<a href="{{ '/luebeck/' | relative_url }}">für ProTandem</a>.<br>
+
+ProTandem (DFS-SFA)
+
+</details>
+
+<details>
+<summary>2017 - Gaststreitkräfte Ramstein-Miesenbach</summary>
 
 09/2016 - 03/2019
 
@@ -115,27 +129,58 @@ USAFE-A8ZE <a href="{{ '/usafe/' | relative_url }}">language specialist</a>
 
 </details>
 
+
 <details>
-<summary>2016 - Welocalize</summary>
+<summary>2016</summary>
+
+
+</details>
+
+<details>
+<summary>03/2016 - Welocalize</summary>
 
 03/2016 - 06/2016
 
 <a href="{{ '/welocalize/' | relative_url }}">Praktik und als Übersetzer</a> Englisch-Deutsch hauptsächlich zum Thema Datenspeicherung, Virtualisierung und Cloud-Infrastruktur.
 
+</details>
+
+<details>
+
+<summary>2015 - St-Sébastien-sur-Loire</summary>
+
+04/10/2015 - 24/10/2015
+
+<a href="{{ '/stsebastien/' | relative_url }}">Französisch für DFS-SFA</a>.<br>
+
+DFS: Deutsch-Französisches-Sekretariat
+
+SFA: sécretariat-franco-allemand
 
 </details>
 
 <details>
-<summary>2015</summary>
+<summary>11/2014 - Sprachbegleitung Argenton-sur-Creuse</summary>
 
-Beispieltext
+09/11/2014 - 28/11/2014
+
+<a href="{{ '/argentonsurcreuse/' | relative_url }}">Französisch für DFS-SFA</a>.<br>
+
+DFS: Deutsch-Französisches-Sekretariat
+
+SFA: sécretariat-franco-allemand
 
 </details>
-
 <details>
-<summary>2014</summary>
+<summary>10/2014 - Sprachbegleitung Dresden</summary>
 
-Beispieltext
+05/10/2014 - 25/10/2014
+
+<a href="{{ '/dresden/' | relative_url }}">Französisch für DFS-SFA</a>.<br>
+
+DFS: Deutsch-Französisches-Sekretariat
+
+SFA: sécretariat-franco-allemand
 
 </details>
 
