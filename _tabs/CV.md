@@ -373,7 +373,7 @@ Das Pfälzische Oberlandesgericht Zweibrücken (2018) und das Oberlandesgericht 
 <div class="cv-card">
 <details>
 <summary><i class="fas fa-chalkboard-teacher"></i> Int-Zulassung</summary>
-<p>Zulassung als Lehrkraft für Integrationskurse</p>
+<p><a href="{{ '/zulassung/' | relative_url }}">Zulassung</a> als Lehrkraft für Integrationskurse</p>
 </details>
 </div>
 
