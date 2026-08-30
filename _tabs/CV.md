@@ -44,29 +44,59 @@ Deutsch, Englisch, Französisch und Spanisch.
 ## <i class="fas fa-briefcase"></i> Berufserfahrung
 <details open>
 <summary>2026</summary>
-
-hab'sch nix gemacht! Frijoles
+Lateinamerikareise
+<ul>
+<li>Buenos Aires</li>
+<li>Cordoba</li>
+<li>Mendoza</li>
+<li>Santiago de Chile</li>
+<li>Lima</li>
+<li>Quito</li>
+<li>Popayan</li>
+<li>Cali</li>
+<li>Bogota</li>
+</ul>
 
 </details>
 
 <details>
-<summary>2025 - Bildungskreis Handwerk</summary>
+<summary>01/2025 - Bildungskreis Handwerk</summary>
 
 Online-BSK-Kurs dank geltender Ausnahmegenehmigung, 
 <a href="{{ '/bskBildungskreis/' | relative_url }}">60 UE</a>
 
 </details>
+<details>
+<summary>00/2024 - BAMF </summary>
+
+34 Tage
+
+<a href="{{ '/babs_2024/' | relative_url }}">Konsekutiv</a>.<br>
+
+mit Englisch, Französisch und Spanisch.
+
+</details>
 
 <details>
-<summary>2024 - Berlitz DeuFöv</summary>
+<summary>12/2024 - Berlitz DeuFöv</summary>
 
 BSK-Kurs dank geltender Ausnahmegenehmigung, <a href="{{ '/bskBerlitz/' | relative_url }}">90 UE</a>
+
+</details>
+<details>
+<summary>00/2024 - BAMF </summary>
+
+32 Tage
+
+<a href="{{ '/babs_2024/' | relative_url }}">Konsekutiv</a>.<br>
+
+mit Englisch, Französisch und Spanisch.
 
 </details>
 
 <details>>
 
-<summary>223 - Sprachbegleitung in St. Augustin </summary>
+<summary>11/2023 - Sprachbegleitung in St. Augustin </summary>
 
 13/11/2023 - 24/11/2023
 
@@ -76,11 +106,25 @@ ProTandem (DFS-SFA)
 
 
 </details>
+<details>
+<summary>00/2023 - BAMF </summary>
+
+54 Tage
+
+<a href="{{ '/babs_2023/' | relative_url }}">Konsekutiv</a>.<br>
+
+mit Englisch, Französisch und Spanisch.
+
+</details>
 
 <details>
-<summary>2022</summary>
+<summary>00/2022 - BAMF </summary>
 
-Beispieltext
+21 Tage
+
+<a href="{{ '/babs_2022/' | relative_url }}">Konsekutiv</a>.<br>
+
+mit Englisch, Französisch und Spanisch.
 
 </details>
 
@@ -126,13 +170,6 @@ ProTandem (DFS-SFA)
 09/2016 - 03/2019
 
 USAFE-A8ZE <a href="{{ '/usafe/' | relative_url }}">language specialist</a>
-
-</details>
-
-
-<details>
-<summary>2016</summary>
-
 
 </details>
 
@@ -197,9 +234,13 @@ SFA: sécretariat-franco-allemand
 </details>
 
 <details>
-<summary>2012</summary>
+<summary>2012 - G-I-M Transkritpion mit F2</summary>
 
-Beispieltext
+2009-2012
+
+<a href="{{ '/gim/' | relative_url }}">Gesellschaft für Innovative Marktforschung</a>.
+
+F2 ist ein Tool, womit man durch Tastenclick zurückspulen kann. Die Interviews waren zu Themen wie Benzintrennschleifer, Zigaretten, Schlitzgeräten (für Kabelkanäle) uvm. meistens Französisch > Deutsch.
 
 </details>
 
