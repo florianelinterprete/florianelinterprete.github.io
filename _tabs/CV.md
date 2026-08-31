@@ -37,7 +37,7 @@ Deutsch, Englisch, Französisch und Spanisch.
 
 ## <i class="fas fa-user"></i> Profil
 
-<em>Deutsch-Dozent</em> mit BAMF-Zulassung gemäß §15 Integrationsverordnung, AEVO-Zertifikat und 150 UE BSK-Erfahrung. (500 UE + AEVO = BSK Zulassung)
+<em>Deutsch-Dozent</em> mit BAMF-Zulassung gemäß §15 <a href="https://www.gesetze-im-internet.de/intv/">Integrationskursverordnung</a>, AEVO-Zertifikat und 150 UE BSK-Erfahrung. (500 UE + AEVO = BSK Zulassung)
 
 ---
 
@@ -170,6 +170,14 @@ ProTandem (DFS-SFA)
 09/2016 - 03/2019
 
 USAFE-A8ZE <a href="{{ '/usafe/' | relative_url }}">language specialist</a>
+
+</details>
+<details>
+<summary>05/2017 - Svalbard</summary>
+
+18/05/2017 (2 Umrundungen Svalbards)
+
+ <a href="{{ '/svalbard/' | relative_url }}">bzw. Spitzbergen</a>
 
 </details>
 
@@ -420,22 +428,36 @@ Das Pfälzische Oberlandesgericht Zweibrücken (2018) und das Oberlandesgericht 
 
 <div class="cv-card">
 <details>
-<summary><i class="fas fa-user-graduate"></i> BSK-Zulassung</summary>
+<summary><i class="fas fa-user-graduate"></i> <s>BSK</s>-Zulassung</summary>
 Auf dem Weg zu einer <a href="{{ '/BSK_howto/' | relative_url }}">Berufsschulkurs-Direktzulassung</a>. 
 </details>
 </div>
 
 <div class="cv-card">
 <details>
-<summary><i class="fa-solid fa-people-group"></i><a href="{{ '/AEVO/' | relative_url }}"> AEVO</a></summary>
-Die Ausbildung der Ausbilder. Da ich viele Austausche in der beruflichen Bildung betreut habe als Französischdolmetscher bin ich mit der Berufsausbildung in Deutschland und Frankreich vertraut.
+<summary><i class="fa-solid fa-bicycle"></i> Tandemlehrer</summary>
+Ein Lehrer, der für ProTandem sog. Tandemkurse leiten darf <a href="{{ '/tandem/' | relative_url }}">Tandemkurse leiten darf</a>. 
 </details>
 </div>
 
 <div class="cv-card">
 <details>
-<summary><i class="fa-solid fa-user-secret"></i><a href="{{ '/Sachkunde/' | relative_url }}"> § 34a GewO</a></summary>
-<p> Relevanter Text</p>
+<summary><i class="fas fa-chalkboard"></i> TEFL-Lehrer</summary>
+ <a href="{{ '/tefl/' | relative_url }}">Englischlehrerzertifikat</a>. 
+</details>
+</div>
+
+<div class="cv-card">
+<details>
+<summary><i class="fa-solid fa-people-group"></i>AEVO</summary>
+Die Ausbildung der Ausbilder (<a href="{{ '/AEVO/' | relative_url }}"> AdA</a>). Da ich viele Austausche in der beruflichen Bildung betreut habe als Französischdolmetscher bin ich mit der Berufsausbildung in Deutschland und Frankreich vertraut. Mehr zur AEVO <a href="https://www.gesetze-im-internet.de/ausbeignv_2009/"> hier</a>.
+</details>
+</div>
+
+<div class="cv-card">
+<details>
+<summary><i class="fa-solid fa-user-secret"></i>§34a GeWo</summary>
+<p>Sachkundig gemäß <a href="{{ '/Sachkunde/' | relative_url }}"> § 34a GewO</a>. Mehr zur <a href="https://www.gesetze-im-internet.de/gewo/">Gewerbeordnung</a> kann man hier erfahren.</p>
 </details>
 </div> 
 
