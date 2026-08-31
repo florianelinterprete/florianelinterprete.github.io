@@ -42,8 +42,8 @@ Deutsch, Englisch, Französisch und Spanisch.
 ---
 
 ## <i class="fas fa-briefcase"></i> Berufserfahrung
-<details open>
-<summary>2026</summary>
+<details>
+<summary>2026 - Lateinamerikareise</summary>
 Lateinamerikareise
 <ul>
 <li>Buenos Aires</li>
@@ -191,6 +191,15 @@ USAFE-A8ZE <a href="{{ '/usafe/' | relative_url }}">language specialist</a>
 </details>
 
 <details>
+<summary>07/2016 - Carlsson</summary>
+
+01/07/2016
+
+<a href="{{ '/carlsson/' | relative_url }}">Konsekutivdolmetschen</a> Englisch-Deutsch bei der Einweihung der neuen Hauptzentrale von Carlsson durch die damalige Miniserpräsidentin Annegret Kramp-Karrenbauer
+
+</details>
+
+<details>
 
 <summary>2015 - St-Sébastien-sur-Loire</summary>
 
@@ -313,12 +322,22 @@ Bachelor of Arts
 Spanisch
 </a> und Fachrichtung BWL</strong>
 
+In Heidelberg konnte ich 4-Semester Chinesisch belegen. Allerdings habe ich Chinesisch zugunsten von Russisch aufgegeben.
+
 </details>
 
 <details>
 <summary>2-Fach-Bachelor Romanische Philolologie Französisch und Chemie</summary>
 
+<p>Nach dem Abitur bewarb ich mich für Sinnologie und ergatterte einen Platz der wegen Nichteinschreibung anderweitig vergeben wurde.</p>
+
 <img src="/assets/exma.png" alt="Exmatrikulation RUB" style="width: 55%">
+
+<p>
+Nach der Beeindigung des philologischen Experiments war ich in Zentralamerika Spanisch lernen und tauchen.
+</p>
+
+<img src="/assets/padiopenwater.jpg" style="width:55%" alt="Tauchkurs">
 
 </details>
 
@@ -403,7 +422,7 @@ Spanisch
 <summary><i class="fas fa-award"></i> Öffentlich bestellt</summary>
 <ul>
 <li>durch die nach dem Landesrecht von Rheinland-Pfalz zuständige Stelle</li>
-<li>durch die nach dem Landesrecht von Nordrhein-Westfalen zuständige Stelle</li>
+<li>durch die nach dem Landesrecht von <s>Nordrhein-Westfalen</s> zuständige Stelle (ausgelaufen) </li>
 </ul>
 
 Das Pfälzische Oberlandesgericht Zweibrücken (2018) und das Oberlandesgericht Düsseldorf (2020) haben die <strong>fachliche Eignung</strong> überprüft.
@@ -466,32 +485,18 @@ Die Ausbildung der Ausbilder (<a href="{{ '/AEVO/' | relative_url }}"> AdA</a>).
 
 ---
 
-## <i class="fas fa-cogs"></i> Fachgebiete
-
-<div class="cv-tags">
-
-<span>Technik</span>
-<span>Maschinenbau</span>
-<span>Schweißtechnik</span>
-<span>Recht</span>
-<span>Migration</span>
-<span>Wirtschaft</span>
-<span>Bildung</span>
-<span>DaF / DaZ</span>
-
-</div>
-
----
 
 ## <i class="fas fa-laptop-code"></i> Technische Kenntnisse
 
 | Bereich | Kenntnisse |
 |:--|:--|
-| **Web** | Jekyll · Markdown · HTML · CSS |
-| **Versionierung** | Git · GitHub |
-| **Office** | Microsoft Office |
-| **Übersetzung** | CAT-Tools · Translation Memory |
-| **Terminologie** | Terminologiemanagement · Glossare |
+| **Web** | Jekyll · Markdown · HTML · CSS · PHP · JavaScript · jQuery · OpenUI5
+| **Versionierung** | Git · GitHub 
+| **3D** | Trimble SketchUp · Inkscape (2D)
+| **Office** | Microsoft Office 
+| **Übersetzung** | CAT-Tools · Translation Memory 
+| **Terminologie** | Terminologiemanagement · Glossare
+| **Schweißen** | GMAW · SMAW  
 
 ---
 
@@ -504,12 +509,6 @@ Die Ausbildung der Ausbilder (<a href="{{ '/AEVO/' | relative_url }}"> AdA</a>).
 Ich trainiere für die Rückwärdsrolle (siehe <a href="https://www.instagram.com/floria_n87/"><i class="fa-brands fa-instagram"></i></a>)
 </details>
 </div>
-
-
-
-
-
-
 
 
 <div class="cv-card">
@@ -543,12 +542,10 @@ Ich trainiere für einen Marathon.
 
 
 
-
-
 <div class="cv-card">
 <details>
 <summary><i class="fas fa-dumbbell"></i> Raumeinschließende Strukturen</summary>
-Ich interessiere mich für geodätische Kuppeln, Jurten und klassische Bauprojekte (siehe <a href="https://www.youtube.com/watch?v=TFV-O8Rdz04"><i class="fab fa-youtube"></i></a>).
+Ich interessiere mich für geodätische Kuppeln, Jurten und alle Gewerke klassischer Bauprojekte (siehe <a href="https://www.youtube.com/watch?v=TFV-O8Rdz04"><i class="fab fa-youtube"></i></a>).
 
 Ich bin Admin von <a href="https://www.facebook.com/groups/acidome.calc">Acidome</a>, einem Berechnungstool für geodätische Kuppeln, und habe diese Strukturen <a href="https://www.youtube.com/watch?v=dZf6NKMaQbU&t=304s">studiert</a>.
 
