@@ -19,4 +19,7 @@ order: 4
 
     </details>
 
+
+    Static site generator(s) sind spannend (Jekyll, Hugo, Astro)
+
 </details>
