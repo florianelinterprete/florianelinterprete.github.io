@@ -496,7 +496,7 @@ Die Ausbildung der Ausbilder (<a href="{{ '/AEVO/' | relative_url }}"> AdA</a>).
 | **Office** | Microsoft Office 
 | **Übersetzung** | CAT-Tools · Translation Memory 
 | **Terminologie** | Terminologiemanagement · Glossare
-| **Schweißen** | GMAW · SMAW  
+| **Schweißen** | [GMAW](/GMAW/) · [SMAW](/SMAW/)  
 
 ---
 
