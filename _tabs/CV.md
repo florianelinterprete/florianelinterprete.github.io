@@ -37,7 +37,17 @@ Deutsch, Englisch, Französisch und Spanisch.
 
 ## <i class="fas fa-user"></i> Profil
 
-<em>Deutsch-Dozent</em> mit BAMF-Zulassung gemäß §15 <a href="https://www.gesetze-im-internet.de/intv/">Integrationskursverordnung</a>, AEVO-Zertifikat und 150 UE BSK-Erfahrung. (500 UE + AEVO = BSK Zulassung)
+Deutschlehrer in der Erwachsenenbildung aus gutem Grund:
+
+ich habe <br>
+
+· Englisch bei US-Amerikanern gelernt<br>
+· Französisch bei Franzosen<br>
+· Russisch bei Russen<br>
+· Spanisch bei Spaniern<br>
+· und Mandarin bei Chinesen gelernt<br>
+
+nun will ich Lernenden das Gleiche in LATAM ermöglichen.
 
 ---
 
@@ -151,7 +161,18 @@ Beispieltext
 </details>
 
 <details>
-<summary>2019 - Sprachbegleitung in Springe</summary>
+<summary>12/2019 - Lingua-World GmbH</summary>
+
+12/2019
+
+Französisch Dolmetschen für eine <a href="{{ '/zollverein/' | relative_url }}">Guinea-Delegation</a>.<br>
+
+
+
+</details>
+
+<details>
+<summary>11/2019 - Sprachbegleitung in Springe</summary>
 
 04/11/2019 - 22/11/2019
 
@@ -487,6 +508,22 @@ Die Ausbildung der Ausbilder (<a href="{{ '/AEVO/' | relative_url }}"> AdA</a>).
 <p>Sachkundig gemäß <a href="{{ '/Sachkunde/' | relative_url }}"> § 34a GewO</a>. Mehr zur <a href="https://www.gesetze-im-internet.de/gewo/">Gewerbeordnung</a> kann man hier erfahren.</p>
 </details>
 </div> 
+
+<div class="cv-card">
+<details>
+<summary><i class="fas fa-list"></i>Sonstiges</summary>
+<ul>
+<li><a href="{{ '/nft/' | relative_url }}">NFT</a>. </li>
+<li><a href="{{ '/nft/' | relative_url }}">SketchUp</a>. </li>
+<li><a href="{{ '/nft/' | relative_url }}">Generative AI</a>. </li>
+<li><a href="{{ '/ppt/' | relative_url }}">Powerpoint</a>. </li>
+<li><a href="{{ '/nft/' | relative_url }}">NFT</a>. </li>
+<li><a href="{{ '/nft/' | relative_url }}">NFT</a>. </li>
+<li><a href="{{ '/nft/' | relative_url }}">NFT</a>. </li>
+<li><a href="{{ '/nft/' | relative_url }}">NFT</a>. </li>
+</ul>
+</details>
+</div>
 
 
 </div>
