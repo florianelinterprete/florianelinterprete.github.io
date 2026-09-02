@@ -11,9 +11,9 @@ Ich war als Schüler zu Gast bei der Zeche Zollverein und im Erwachsenenalter al
 
 
 ![ant]({{ site.baseurl }}/assets/zollverein/zollverein.png)
-![ant]({{ site.baseurl }}/assets/zollverein/zeche1.jpg)
-![ant]({{ site.baseurl }}/assets/zollverein/zeche2.jpg)
-![ant]({{ site.baseurl }}/assets/zollverein/zeche3.jpg)
+![ant]({{ site.baseurl }}/assets/zollverein/zeche1.JPG)
+![ant]({{ site.baseurl }}/assets/zollverein/zeche2.JPG)
+![ant]({{ site.baseurl }}/assets/zollverein/zeche3.JPG)
 
 Bevor Aufträge öffentlich ausgeschrieben werden, werden Lücken oft von Agenturen gefüllt. So darf ein Dolmetscher ohne GmbH auch mal was erleben.
 
