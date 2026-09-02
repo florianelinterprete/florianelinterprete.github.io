@@ -10,9 +10,9 @@ permalink: /zollverein/
 Ich war als Schüler zu Gast bei der Zeche Zollverein und im Erwachsenenalter als Französischdolmetscher.
 
 <img src="{{ site.baseurl }}/assets/zollverein/zollverein.png" alt="" style="width:55%">
-<!-- img src="{{ site.baseurl }}/assets/zollverein/zeche1.jpg" alt="" style="width:55%">
-<img src="{{ site.baseurl }}/assets/zollverein/zeche2.jpg" alt="" style="width:55%">
-<img src="{{ site.baseurl }}/assets/zollverein/zeche3.jpg" alt="" style="width:55%" -->
+<img src="{{ site.baseurl }}/assets/zollverein/zeche1.JPG" alt="Zeche" style="width:55%">
+<img src="{{ site.baseurl }}/assets/zollverein/zeche2.JPG" alt="Zoll" style="width:55%">
+<img src="{{ site.baseurl }}/assets/zollverein/zeche3.JPG" alt="Verein" style="width:55%">
 
 {% comment %}
 funzt net
