@@ -66,6 +66,14 @@ Online-BSK-Kurs dank geltender Ausnahmegenehmigung,
 <a href="{{ '/bskBildungskreis/' | relative_url }}">60 UE</a>
 
 </details>
+
+<details>
+<summary>02/2025 - HX (ehemals Hurtigruten) - Antarktis</summary>
+
+Simultanverdolmetschung von Präsentationen zu Reisezielen und Tieren. 
+<a href="{{ '/antarktis/' | relative_url }}">Falklandinseln, Südgeorgien, Antarktis</a>
+
+</details>
 <details>
 <summary>00/2024 - BAMF </summary>
 
