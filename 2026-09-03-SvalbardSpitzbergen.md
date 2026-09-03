@@ -20,4 +20,3 @@ Inzwischen arbeiten dort vorwiegend Vollzeitdolmetscher mit denen man als Laie
 ![sval3]({{ site.baseurl }}/assets/svalbard/svalpay.png)
 
 nicht - oder bei akutem Natur-Interesse - nur schwer konkurrieren kann. Viele Gelegenheiten sind mir wegen meiner Impfverweigerung entgangen. Soll auch nicht weiter schlimm sein, soein Trip ist nämlich nur beim ersten Mal spannend.
-

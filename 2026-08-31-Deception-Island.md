@@ -16,3 +16,5 @@ Sehr viele Vorlesungen zum Thema "Sir Enerst Shakleton", Pinguinen, Albatrossen 
 
 
 ![ant]({{ site.baseurl }}/assets/antarktis/map.png)
+
+![our voyage]({{ site.baseurl }}/assets/antarktis/ourVoyage.png)
