@@ -19,4 +19,4 @@ Kontext ist der Bedeutungsraum in den das Wort eingebetet ist, d.h. viele Zusamm
 
 Was würde man auf Deutsch sagen?
 
-Faustino hat viel <vorzuweisen>, nämlich der jüngste Schach-Großmeister zu sein. 
+Faustino hat viel <strong>vorzuweisen</strong>, nämlich der jüngste Schach-Großmeister zu sein. 
