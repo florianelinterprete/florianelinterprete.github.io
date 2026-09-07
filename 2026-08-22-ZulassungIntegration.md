@@ -13,7 +13,7 @@ Wer diese völlig sinnfreie Beschäftigungstheorie absolviert,
 
 
 <iframe
-  src="{{ '/assets/goethe.pdf' | relative_url}}"
+  src="{{ '/assets/goethezert.pdf' | relative_url}}"
   width="100%"
   height="800px"
   style="border: none;">
