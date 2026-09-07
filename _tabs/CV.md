@@ -171,11 +171,12 @@ Französisch Konsekutiv zu Gast bei <a href="{{ '/brabus/' | relative_url }}">Br
 <details>
 <summary>2020</summary>
 
-AG Wesel
+AG Wesel (Amtsgericht)
 AG Oberhausen
 AG Muelheim
 JVA Rohrbach
 AG Rockenhausen
+Arbeitsgericht Wiesbaden
 TÜV Nord Mobilität GmbH
 Landgericht Essen
 Mobipro.GR
