@@ -146,17 +146,40 @@ mit Englisch, Französisch und Spanisch.
 
 </details>
 
-<details>
-<summary>2021</summary>
 
-Beispieltext
+<details>
+<summary>11/2021 - Friedrich-Ebert-Stiftung</summary>
+
+11/2021
+
+English Simultan für <a href="{{ '/FES/' | relative_url }}">C2C</a>.<br>
+
+
+
+</details>
+
+<details>
+
+<summary>2021 - Brabus</summary>
+
+11/2021
+
+Französisch Konsekutiv zu Gast bei <a href="{{ '/brabus/' | relative_url }}">Brabus</a>.<br>
 
 </details>
 
 <details>
 <summary>2020</summary>
 
-Beispieltext
+AG Wesel
+AG Oberhausen
+AG Muelheim
+JVA Rohrbach
+AG Rockenhausen
+TÜV Nord Mobilität GmbH
+Landgericht Essen
+Mobipro.GR
+Standesamt Kaiserslautern
 
 </details>
 

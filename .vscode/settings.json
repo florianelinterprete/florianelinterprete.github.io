@@ -30,8 +30,12 @@
   "folder-color.pathColors": [
     {
       "folderPath": "florianelinterprete\\_posts\\",
-      "color": "foldercolorizer.color_00ffff",
-      "isFolderOnly": true
+      "isFolderOnly": true,
+      "color": "foldercolorizer.color_00ffff"
+    },
+    {
+      "extension": "md",
+      "color": "foldercolorizer.color_af5f00"
     }
   ]
 }
