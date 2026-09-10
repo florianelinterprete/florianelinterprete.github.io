@@ -472,22 +472,34 @@ Nach der Beeindigung des philologischen Experiments war ich in Zentralamerika Sp
 
 <div class="cv-card">
 <details>
-<summary><i class="fas fa-award"></i> Öffentlich bestellt</summary>
+<summary><i class="fas fa-award"></i> Allgemein beeidigt</summary>
 <ul>
 <li>durch die nach dem Landesrecht von Rheinland-Pfalz zuständige Stelle</li>
-<li>durch die nach dem Landesrecht von <s>Nordrhein-Westfalen</s> zuständige Stelle (ausgelaufen) </li>
+<li>durch die nach dem Landesrecht von <s>
+<a href="{{ '/vereidigungen/' | relative_url }}">Nordrhein-Westfalen</a></s> zuständige Stelle (ausgelaufen) </li>
 </ul>
 
 Das Pfälzische Oberlandesgericht Zweibrücken (2018) und das Oberlandesgericht Düsseldorf (2020) haben die <strong>fachliche Eignung</strong> überprüft.
+
+<p>Der vorsitzende Richter fragt den Dolmetscher, ob er sich auf seinen allgemeine Beeidigung beruft, sodass eine erneute Beeidigung für den konkreten Termin entfällt.</p>
+<img src="/assets/ichSchwoere.jpg" alt="Wer beeidigt wen?">
 
 </details>
 </div>
 
 <div class="cv-card">
 <details>
-<summary><i class="fas fa-gavel"></i> Allgemein beeidigt</summary>
-<p>Der vorsitzende Richter fragt den Dolmetscher, ob er sich auf seinen allgemeine Beeidigung beruft, sodass eine erneute Beeidigung für den konkreten Termin entfällt.</p>
-<img src="/assets/ichSchwoere.jpg" alt="Wer beeidigt wen?">
+<summary><i class="fas fa-gavel"></i> Ermächtigt</summary>
+
+Das Wort ermächtigt bezieht sich auf Übersetzungen. Man darf seinen Stempel unter eine Übersetzung setzen, muss sich aber genau an den Wortlaut halten.
+
+„Von dem Präsidenten des Pfälzischen Oberlandesgerichts Zweibrücken allgemein beeidigter Dolmetscher der englischen und französischen Sprache für gerichtliche und notarielle Angelegenheiten in Rheinland-Pfalz“
+
+„Von dem Präsidenten des Pfälzischen Oberlandesgerichts Zweibrücken ermächtigter Übersetzer der englischen und französischen Sprache für gerichtliche Angelegenheiten in Rheinland-Pfalz“
+
+Die Ermächtigung gilt nur für RLP.
+Die Vereidigung von RLP gilt bundesweit (zumindest bis Ende 2026).
+
 </details>
 </div>
 
@@ -538,7 +550,7 @@ Die Ausbildung der Ausbilder (<a href="{{ '/AEVO/' | relative_url }}"> AdA</a>).
 <summary><i class="fas fa-list"></i>Sonstiges</summary>
 <ul>
 <li><a href="{{ '/nft/' | relative_url }}">NFT</a>. </li>
-<li><a href="{{ '/nft/' | relative_url }}">SketchUp</a>. </li>
+<li><a href="{{ '/sketchup/' | relative_url }}">SketchUp</a>. </li>
 <li><a href="{{ '/nft/' | relative_url }}">Generative AI</a>. </li>
 <li><a href="{{ '/ppt/' | relative_url }}">Powerpoint</a>. </li>
 <li><a href="{{ '/nft/' | relative_url }}">NFT</a>. </li>
