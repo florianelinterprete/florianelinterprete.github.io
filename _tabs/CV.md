@@ -4,6 +4,30 @@ icon: fas fa-briefcase
 order: 5
 ---
 
+<style>
+ 
+ /* details {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  padding: 10px;
+  max-width: 500px;
+}
+*/
+
+
+summary {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  padding: 10px;
+  max-width: 500px;
+
+}
+
+</style>
+
+
 <div class="cv-header">
 
 <h1>Florian Winkler</h1>
@@ -240,8 +264,8 @@ USAFE-A8ZE <a href="{{ '/usafe/' | relative_url }}">language specialist</a>
 03/2016 - 06/2016
 
 <a href="{{ '/welocalize/' | relative_url }}">Praktik und als Übersetzer</a> Englisch-Deutsch hauptsächlich zum Thema Datenspeicherung, Virtualisierung und Cloud-Infrastruktur.
-
 </details>
+
 
 <details>
 <summary>07/2016 - Carlsson</summary>
@@ -249,11 +273,21 @@ USAFE-A8ZE <a href="{{ '/usafe/' | relative_url }}">language specialist</a>
 01/07/2016
 
 <a href="{{ '/carlsson/' | relative_url }}">Konsekutivdolmetschen</a> Englisch-Deutsch bei der Einweihung der neuen Hauptzentrale von Carlsson durch die damalige Miniserpräsidentin Annegret Kramp-Karrenbauer
-
 </details>
 
-<details>
 
+<details>
+<summary>03/2015 - Engagement Global gGmbH</summary>
+
+19/03/2015 - 20/03/2015
+
+<a href="{{ '/engagement/' | relative_url }}">Engagement Global</a>.<br>
+
+Simultan de-frz-de
+</details>
+
+
+<details>
 <summary>2015 - St-Sébastien-sur-Loire</summary>
 
 04/10/2015 - 24/10/2015
@@ -263,8 +297,8 @@ USAFE-A8ZE <a href="{{ '/usafe/' | relative_url }}">language specialist</a>
 DFS: Deutsch-Französisches-Sekretariat
 
 SFA: sécretariat-franco-allemand
-
 </details>
+
 
 <details>
 <summary>11/2014 - Sprachbegleitung Argenton-sur-Creuse</summary>
@@ -276,8 +310,9 @@ SFA: sécretariat-franco-allemand
 DFS: Deutsch-Französisches-Sekretariat
 
 SFA: sécretariat-franco-allemand
-
 </details>
+
+
 <details>
 <summary>10/2014 - Sprachbegleitung Dresden</summary>
 
@@ -288,8 +323,8 @@ SFA: sécretariat-franco-allemand
 DFS: Deutsch-Französisches-Sekretariat
 
 SFA: sécretariat-franco-allemand
-
 </details>
+
 
 <details>
 <summary>2013 - Sprachbegleitung für DFS-SFA</summary>
@@ -300,7 +335,6 @@ SFA: sécretariat-franco-allemand
 
 DFS: Deutsch-Französisches-Sekretariat
 SFA: sécretariat-franco-allemand
-
 </details>
 
 <details>

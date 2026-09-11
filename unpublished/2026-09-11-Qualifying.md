@@ -12,7 +12,7 @@ permalink: /qualifying/
 
 <p>Kontext und Ko-Text</p>
 
-![ant]({{ site.baseurl }}/assets/leoleo.png)
+![ant]({{ site.baseurl }}/unpublished/saludar.png)
 
 
 ## Was zum Fick
@@ -49,4 +49,18 @@ Tja dann kann man die Strategie wohl nicht fahren. Und was dann? AFC-life is har
 
 Im Subtext kommuniziert das genau das falsche. Aber ich kann es nicht lassen. Besser nach dem Koitus als vor dem Koitus!
 
+## Das Sugar Baby
 
+Ich bin im Einkaufszentrum und 
+Asli will, dass ich ihr Sachen kaufe. 
+Asli will, dass ich ihr Taxis bezahle. 
+Asli will ins Hotel. 
+Asli will "überall" geküsst werden (nein sie meinte nicht ihren Anus)
+
+Verfickte Scheiße, das ist kein "fake-qualifying", das sind alles No-Go's. 
+
+Wir halten fest: Eine Frau, die alle Kriterien erfüllt eignet sich nicht für "Qualifying", man kann sie lediglich zum Himmel hoch loben.
+
+Eine Frau, die "echte" Kriterien nicht erfüllt will man <strong> UEBERHAUPT NICHT </STRONG>
+
+Beides unlösbare Probleme. 
