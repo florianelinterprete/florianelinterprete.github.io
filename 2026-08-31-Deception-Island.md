@@ -10,7 +10,7 @@ permalink: /antarktis/
 Hurtigruten hat sich in HX und Hurtigruten gespalten und HX befährt weiterhin den Süden.
 
 
-Sehr viele Vorlesungen zum Thema "Sir Enerst Shakleton", Pinguinen, Albatrossen und Walen.
+Sehr viele Vorlesungen zum Thema "Sir Ernest Shakleton", Pinguinen, Albatrossen und Walen.
 
 ![ant]({{ site.baseurl }}/assets/antarktis/IAATO.jpeg)
 

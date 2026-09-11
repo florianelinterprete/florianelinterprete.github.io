@@ -193,18 +193,22 @@ Französisch Konsekutiv zu Gast bei <a href="{{ '/brabus/' | relative_url }}">Br
 </details>
 
 <details>
-<summary>2020</summary>
+<summary>2020 - Corona</summary>
+
+2020 habe ich nur Jobs gemacht, die keinen Impfnachweis verlangen. Schließlich bin ich Impfverweigerer.
+
+Mit * gekennzeichnete Punkte gehören eigentlich zu anderen Jahren, aber passen thematisch zum Justizdolmetschen (Gefängnis, Gericht, Standesamt)
 
 AG Wesel (Amtsgericht)
 AG Oberhausen
 AG Muelheim
-JVA Rohrbach
-AG Rockenhausen
+JVA Rohrbach*
+AG Rockenhausen*
 Arbeitsgericht Wiesbaden
-TÜV Nord Mobilität GmbH
+TÜV Nord Mobilität GmbH (Idiotentest)
 Landgericht Essen
-Mobipro.GR
-Standesamt Kaiserslautern
+Mobipro.GR*
+Standesamt Kaiserslautern*
 
 </details>
 
