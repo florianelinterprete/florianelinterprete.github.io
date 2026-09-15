@@ -37,7 +37,14 @@
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/florian-winkler-948743b3/'                  # Fill with your Linkedin homepage
-#
+
+
+- type: phone
+  icon: "fas fa-phone"
+  url: "tel:+4920878012071"
+
+
+
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage

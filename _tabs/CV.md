@@ -46,7 +46,7 @@ Deutsch, Englisch, Französisch und Spanisch.
 <i class="fas fa-envelope"></i> E-Mail
 </a>
 
-<a href="tel:+4915168767665">
+<a href="tel:+4920878012071">
 <i class="fas fa-phone"></i> Telefon
 </a>
 
