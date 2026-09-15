@@ -36,3 +36,9 @@ Warum diese Zeitform "indefinido" heißt leuchtet mir auch nicht ein. Im Russisc
 ![Pop Up Jurte](/assets/yurt.png)
 
 {% endcomment %}
+
+<blockquote>
+  Historisch bezeichnet <em>indefinido</em> vor allem die <strong>Art und Weise, wie die Handlung zeitlich betrachtet wird</strong>: Sie wird als <strong>abgeschlossenes Ganzes</strong> dargestellt, ohne dass der Sprecher sie mit der Gegenwart oder mit einem anderen Zeitpunkt „verknüpft“.
+</blockquote>
+
+Richtig dumm, aber so ist das....

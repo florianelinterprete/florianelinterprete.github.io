@@ -634,27 +634,7 @@ Ich trainiere für die Rückwärdsrolle (siehe <a href="https://www.instagram.co
 <details>
 <summary><i class="fas fa-running"></i> Lauftraining</summary>
 
-Ich trainiere für einen Marathon.
-
-<details><summary>siehe Strava</summary>
-<a href="https://www.strava.com/athletes/198313342"><i class="fa-brands fa-strava"></i> Strava</a>
-</details>
-
-<details><summary>Bogota</summary>
-<img src="/assets/stravaBogota.png" alt="Bogota run">
-</details>
-
-<details><summary>Cali</summary>
-<img src="/assets/stravaCali.png" alt="Cali run">
-</details>
-
-<details><summary>Quito</summary>
-<img src="/assets/stravaQuito.png" alt="Quito run">
-</details>
-
-<details><summary>Lima</summary>
-<img src="/assets/stravaLima.png" alt="Lima run">
-</details>
+Ich trainiere für einen <a href="{{ '/strava/' | relative_url }}">Marathon</a>.
 
 </details>
 </div>

@@ -23,35 +23,40 @@ Was würde man auf Deutsch sagen?
 
 Faustino hat viel <strong>vorzuweisen</strong>, nämlich der jüngste Schach-Großmeister zu sein. 
 
-## cite
-
-Hier wollen wir mal zitieren üben!
-
-<p>Mein Wissen über Webtechnologien habe ich von <cite>SELFHTML</cite>.</p>
-
+## Salience
 
 <blockquote>
-„Hier steht das Zitat.“
+This module will deep dive into AI’s deployment in one of the most prominent judicial contexts: the courtroom. It will examine trends over the past few decades from online dispute resolutions to online courts, and the <strong> salience </strong> they have gained as result of the global pandemic. It will also discuss technological, economic, legal, and socio-ethical constraints that prevent AI adoption from fully materializing. Through context-specific use cases, it will shed light on both the opportunities and the risks the same AI applications may have. It will look at two examples: the British Columbia Civil Resolution Tribunal and smart courts in China
 </blockquote>
 
-![ant]({{ site.baseurl }}/assets/sismo/sismo.jpeg)
+![Salience]({{ site.baseurl }}/assets/desam/salience.png)
 
-In Kolumbien wackelt es ordentlich. In einem Text fand ich das Wort télurico. Aber der Text ist futsch!
+Auf Deutsch würde man eher von Popularität sprechen. Nun ist die Frage, ob der Fehler bei Leo, dem Ausgangstext oder dir (dem Sprachlernenden) liegt. 
 
-Der klassische Fall für eine Korpus-Analyse. 
+Salience kommt vom französischen "salir" (herausgehen). 
 
-Man gehe auf Google und schreibe "site:co télurico"
+Wir geben auf Google ein: 
+<cite>site:apnews.com salience</cite>.
 
-## Vom Wort zum Satz
+<blockquote>
+But whether Cao or anyone else in the primary can get it done is a big question. Political scientists say there’s a narrow path to victory for the GOP given Virginia’s moderate electorate, aversion to Trump in 2020 and Kaine’s <em>salience</em> with voters.
+</blockquote>
 
-![ant]({{ site.baseurl }}/assets/sismo/telurico.png)
+
+## Telúrico
+
+![ant]({{ site.baseurl }}/assets/desam/telurico.png)
+
+![ant]({{ site.baseurl }}/assets/desam/sismo.jpeg)
+
+
+In Kolumbien wackeltes ordentlich.
 
 Ohne Ko- und Kontext Sprachen lernen zu wollen ist nicht sehr schlau. Viele Lerner scheitern, weil der Unterricht auf Unterhaltung ausgelegt ist.
 
-Die Dopaminkanone muss feuern. Aber in Wirklichkeit ist es sehr simpel. 
+Das Wort "tellurisch" scheint es auch im Deutschen zu geben, aber man nutz eher Erd-.
 
 ## Was ist Sprachenlernen
 
 Äquivalente finden! Sonst nix. Nur wer findet diese Äquivalente. Deutschlehrer müssen sicherstellen, dass der Lernende das richtige Äquivalent in seiner Sprache gefunden hat. 
 
-Das tun sie nicht. Können sie auch nicht, wenn in einem Kurs 25 Sprachen sitzen.
