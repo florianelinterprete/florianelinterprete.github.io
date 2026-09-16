@@ -20,6 +20,6 @@ Leider habe ich diesen Kurs unterbrochen für einen mir damals attraktiv erschei
 <details>
 <summary>Antarktis. </summary>
 
-<img src="/assets/pinguin.png" alt="Antarktis">
+<img src="{{ site.baseurl }}/assets/pinguin.png" alt="Antarktis">
 
 </details>

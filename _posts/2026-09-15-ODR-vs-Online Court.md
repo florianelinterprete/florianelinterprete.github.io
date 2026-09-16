@@ -23,6 +23,16 @@ Auf golearn.judge.org kann man sich <a href="https://golearn.judges.org/pages/60
 
 Streitbeilegung wie bei ebay ist weitaus genialer als der verkrustete Deutsche Rechtsapparat. 
 
+Fair outcomes - ein Schlagwort, das im Kurs genutzt wird. Genau das wünscht man sich eigentlich.
+
 ## Online Court Proceedings
 
-Unfassbar gut. Remmote und asynchron.
+Unfassbar gut. Remmote und asynchron oder synchron. 
+
+Also mich Frommer-Legal zum OLG Düsseldorf bestellt hat, ließen sie sich selber per Video zuschalten, aber berechneten sich "fiktive Fahrtkosten". 
+
+Das ist so dermaßen wahnsinnig, dass ich es bis heute nicht fassen kann. 
+
+## Easily accessible language
+
+Manche Juristen erfinden ihre eigene Sprache und keiner hindert sie daran. Das mein lieber Leser ist auch - der absolute Wahnsinn.

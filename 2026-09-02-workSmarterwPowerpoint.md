@@ -7,10 +7,8 @@ permalink: /ppt/
 
 [zurück]({% link _tabs/CV.md %})
 
-Ich war als Schüler zu Gast bei der Zeche Zollverein und im Erwachsenenalter als Französischdolmetscher.
-
-
-![ant]({{ site.baseurl }}/assets/powerpoint.jpeg)
-
-
 Brauchte ich für AEVO. 
+
+![ant]({{ site.baseurl }}/assets/coursera/powerpoint.jpeg)
+
+

@@ -18,3 +18,4 @@ Von 2020-2025 war ich auch in NRW veredigt.
 
 ![Vereidigung NRW](/assets//NRW_Vereidigung.jpg)
 
+

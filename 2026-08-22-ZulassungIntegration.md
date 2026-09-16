@@ -9,8 +9,7 @@ permalink: /zulassung/
 
 [go back]({% link _tabs/CV.md %})
 
-Wer diese völlig sinnfreie Beschäftigungstheorie absolviert,
-
+Als Quereinsteiger kann man über dieses Zertifikat eine Zulassung für Integrkationskurse erhalten.
 
 <iframe
   src="{{ '/assets/goethezert.pdf' | relative_url}}"
@@ -19,7 +18,7 @@ Wer diese völlig sinnfreie Beschäftigungstheorie absolviert,
   style="border: none;">
 </iframe>
 
-wird als BAMF-Lehrer zugelassen.
+Das besagt die Integrationskursverordnung.
 
 <iframe
   src="{{ '/assets/int_zulassung.pdf' | relative_url}}"
@@ -27,3 +26,4 @@ wird als BAMF-Lehrer zugelassen.
   height="800px"
   style="border: none;">
 </iframe>
+

@@ -589,12 +589,17 @@ Die Ausbildung der Ausbilder (<a href="{{ '/AEVO/' | relative_url }}"> AdA</a>).
 <ul>
 <li><a href="{{ '/nft/' | relative_url }}">NFT</a>. </li>
 <li><a href="{{ '/sketchup/' | relative_url }}">SketchUp</a>. </li>
-<li><a href="{{ '/nft/' | relative_url }}">Generative AI</a>. </li>
+<li><a href="{{ '/jquery/' | relative_url }}">jQuery</a>. </li>
 <li><a href="{{ '/ppt/' | relative_url }}">Powerpoint</a>. </li>
-<li><a href="{{ '/nft/' | relative_url }}">NFT</a>. </li>
-<li><a href="{{ '/nft/' | relative_url }}">NFT</a>. </li>
-<li><a href="{{ '/nft/' | relative_url }}">NFT</a>. </li>
-<li><a href="{{ '/nft/' | relative_url }}">NFT</a>. </li>
+<li><a href="{{ '/ethik/' | relative_url }}">Ethik im Zeitalter generativer KI</a>. </li>
+<li><a href="{{ '/genai/' | relative_url }}">Generative AI: The Evolution of
+Thoughtful Online Search</a>. </li>
+<li><a href="{{ '/investinginh/' | relative_url }}">Investing in Human Skills in the Age of AI</a>. </li>
+<li><a href="{{ '/microsoftcopilot/' | relative_url }}">Streamlining Your Work with
+Microsoft Copilot</a>. </li>
+<li><a href="{{ '/whatisgenai/' | relative_url }}">What Is Generative AI?</a>. </li>
+
+
 </ul>
 </details>
 </div>
