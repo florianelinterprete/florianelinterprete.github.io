@@ -597,6 +597,8 @@ Thoughtful Online Search</a>. </li>
 <li><a href="{{ '/investinginh/' | relative_url }}">Investing in Human Skills in the Age of AI</a>. </li>
 <li><a href="{{ '/microsoftcopilot/' | relative_url }}">Streamlining Your Work with
 Microsoft Copilot</a>. </li>
+<li><a href="{{ '/copilotforwork/' | relative_url }}">Learning Microsoft 365 Copilot for
+Work (2024)</a>. </li>
 <li><a href="{{ '/whatisgenai/' | relative_url }}">What Is Generative AI?</a>. </li>
 
 
