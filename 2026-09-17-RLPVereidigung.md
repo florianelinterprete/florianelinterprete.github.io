@@ -19,7 +19,7 @@ Wer vereidigt ist, bekommt einen Eintrag in der Datenbank justiz-dolmetscher.de
 
 Meiner sah mal so aus:
 
-![NRW Vereidigung]({{ site.baseurl}}/assets/nrwvereidigung.jpg)
+![NRW Vereidigung]({{ site.baseurl}}/assets/vereidigungen/nrwvereidigung.jpg)
 
 Derzeit bin ich eine Karteileiche:
 https://www.justiz-dolmetscher.de/Recherche/de/Person/Details/56210
