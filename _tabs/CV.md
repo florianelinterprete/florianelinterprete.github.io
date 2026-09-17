@@ -113,7 +113,7 @@ Simultanverdolmetschung von Präsentationen zu Reisezielen und Tieren.
 
 34 Tage
 
-<a href="{{ '/babs_2024/' | relative_url }}">Konsekutiv</a>.<br>
+<a href="{{ '/babs/babs_2024/' | relative_url }}">Konsekutiv</a>.<br>
 
 mit Englisch, Französisch und Spanisch.
 
@@ -130,7 +130,7 @@ BSK-Kurs dank geltender Ausnahmegenehmigung, <a href="{{ '/bskBerlitz/' | relati
 
 32 Tage
 
-<a href="{{ '/babs_2024/' | relative_url }}">Konsekutiv</a>.<br>
+<a href="{{ '/babs/babs_2024/' | relative_url }}">Konsekutiv</a>.<br>
 
 mit Englisch, Französisch und Spanisch.
 
@@ -153,7 +153,7 @@ ProTandem (DFS-SFA)
 
 54 Tage
 
-<a href="{{ '/babs_2023/' | relative_url }}">Konsekutiv</a>.<br>
+<a href="{{ '/babs/babs_2023/' | relative_url }}">Konsekutiv</a>.<br>
 
 mit Englisch, Französisch und Spanisch.
 
@@ -164,7 +164,7 @@ mit Englisch, Französisch und Spanisch.
 
 21 Tage
 
-<a href="{{ '/babs_2022/' | relative_url }}">Konsekutiv</a>.<br>
+<a href="{{ '/babs/babs_2022/' | relative_url }}">Konsekutiv</a>.<br>
 
 mit Englisch, Französisch und Spanisch.
 
@@ -193,22 +193,23 @@ Französisch Konsekutiv zu Gast bei <a href="{{ '/brabus/' | relative_url }}">Br
 </details>
 
 <details>
-<summary>2020 - Corona</summary>
+<summary>2020 - NRW Vereidigigung</summary>
 
-2020 habe ich nur Jobs gemacht, die keinen Impfnachweis verlangen. Schließlich bin ich Impfverweigerer.
+ <a href="{{ '/nrwvereidigung/' | relative_url }}">NRW Vereidigung</a>.<br>
 
-Mit * gekennzeichnete Punkte gehören eigentlich zu anderen Jahren, aber passen thematisch zum Justizdolmetschen (Gefängnis, Gericht, Standesamt)
+<ol>
+<li>AG Wesel (Amtsgericht)</li>
 
-AG Wesel (Amtsgericht)
-AG Oberhausen
-AG Muelheim
-JVA Rohrbach*
-AG Rockenhausen*
-Arbeitsgericht Wiesbaden
-TÜV Nord Mobilität GmbH (Idiotentest)
-Landgericht Essen
-Mobipro.GR*
-Standesamt Kaiserslautern*
+<li>AG Oberhausen</li>
+
+<li>AG Muelheim</li>
+
+<li>TÜV Nord Mobilität GmbH (Idiotentest)</li>
+
+<li>Landgericht Essen</li>
+
+<li>Mobipro.GR*</li>
+</ol>
 
 </details>
 
@@ -235,13 +236,30 @@ ProTandem (DFS-SFA)
 </details>
 
 <details>
-<summary>2018 - Sprachbegleitung Lübeck-Travemünde</summary>
+<summary>09/2018 - Sprachbegleitung Lübeck-Travemünde</summary>
 
 09/11/2014 - 28/11/2014
 
 <a href="{{ '/luebeck/' | relative_url }}">für ProTandem</a>.<br>
 
 ProTandem (DFS-SFA)
+
+</details>
+
+<details>
+<summary>03/2018 - RLP-Vereidigung</summary>
+
+02/03/2018 - heute
+
+<a href="{{ '/rlpvereidigung/' | relative_url }}">Vereidigung in Rheinland-Pfalz</a>.<br>
+
+JVA Rohrbach
+
+AG Rockenhausen
+
+Arbeitsgericht Wiesbaden
+
+Standesamt Kaiserslautern
 
 </details>
 

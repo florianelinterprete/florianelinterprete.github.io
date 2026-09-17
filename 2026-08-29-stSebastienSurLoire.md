@@ -10,7 +10,7 @@ permalink: /stsebastien/
 Konsekutivdolmetschen für Deutsche Azubis in St-Sébastien sur Loire.
 
 <iframe
-  src="{{ '/assets/stsebastiensurloire.pdf' | relative_url}}"
+  src="{{ '/assets/dfsfa/stsebastiensurloire.pdf' | relative_url}}"
   width="100%"
   height="800px"
   style="border: none;">

@@ -12,7 +12,7 @@ In den ersten Wochen eines Austausches in der beruflichen Bildung findet ein Tan
 Der Tandemlehrer ist sozusagen der Moderator dieses Kennenlernens.
 
 <iframe
-  src="{{ '/assets/tandem.pdf' | relative_url}}"
+  src="{{ '/assets/dfssfa/tandem.pdf' | relative_url}}"
   width="100%"
   height="800px"
   style="border: none;">
