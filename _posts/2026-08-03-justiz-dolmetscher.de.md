@@ -3,7 +3,7 @@ title: "Öffentlich bestellt & allgemein beeidigt"
 date: 2026-08-05 11:05:00
 categories:
 tags:
-image: ./assets/justizD.jpg
+image: ./assets/vereidigungen/justizD.jpg
 ---
 
 Öffentlich bestellt bedeutet soviel wie "hat seine Qualifikation nachgewiesen". Ähnlich wie bei 34a GewO und AEVO wird die "fachliche Eignung" nachgewiesen.
@@ -16,6 +16,6 @@ Ganz schön wild nicht wahr?
 
 Von 2020-2025 war ich auch in NRW veredigt. 
 
-![Vereidigung NRW](/assets//NRW_Vereidigung.jpg)
+![Vereidigung NRW](/assets//vereidigungen/nrwvereidigung.jpg)
 
 
