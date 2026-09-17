@@ -113,7 +113,7 @@ Simultanverdolmetschung von Präsentationen zu Reisezielen und Tieren.
 
 34 Tage
 
-<a href="{{ '/babs/babs_2024/' | relative_url }}">Konsekutiv</a>.<br>
+<a href="{{ '/babs_2024/' | relative_url }}">Konsekutiv</a>.<br>
 
 mit Englisch, Französisch und Spanisch.
 
@@ -130,7 +130,7 @@ BSK-Kurs dank geltender Ausnahmegenehmigung, <a href="{{ '/bskBerlitz/' | relati
 
 32 Tage
 
-<a href="{{ '/babs/babs_2024/' | relative_url }}">Konsekutiv</a>.<br>
+<a href="{{ '/babs_2024/' | relative_url }}">Konsekutiv</a>.<br>
 
 mit Englisch, Französisch und Spanisch.
 
@@ -153,7 +153,7 @@ ProTandem (DFS-SFA)
 
 54 Tage
 
-<a href="{{ '/babs/babs_2023/' | relative_url }}">Konsekutiv</a>.<br>
+<a href="{{ '/babs_2023/' | relative_url }}">Konsekutiv</a>.<br>
 
 mit Englisch, Französisch und Spanisch.
 
@@ -164,7 +164,7 @@ mit Englisch, Französisch und Spanisch.
 
 21 Tage
 
-<a href="{{ '/babs/babs_2022/' | relative_url }}">Konsekutiv</a>.<br>
+<a href="{{ '/babs_2022/' | relative_url }}">Konsekutiv</a>.<br>
 
 mit Englisch, Französisch und Spanisch.
 
