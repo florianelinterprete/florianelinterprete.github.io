@@ -3,7 +3,7 @@ title: "Online Unterricht"
 date: 2026-09-17 11:59:00
 categories:
 tags:
-image: assets/transparentwhiteboard.png
+image: assets/transparentwhiteboard2.png
 ---
 
 ## Online Unterricht
@@ -19,7 +19,7 @@ Ein Wort muss man wie Kaligraphie behandeln.
 
 
 
-![transparent whiteboard]({{ site.baseurl}}/assets/transparentwhiteboard2.png)
+![transparent whiteboard]({{ site.baseurl}}/assets/transparentwhiteboard.png)
 
 ## Papierzettelchen
 
