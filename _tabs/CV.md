@@ -618,6 +618,7 @@ Microsoft Copilot</a>. </li>
 <li><a href="{{ '/copilotforwork/' | relative_url }}">Learning Microsoft 365 Copilot for
 Work (2024)</a>. </li>
 <li><a href="{{ '/whatisgenai/' | relative_url }}">What Is Generative AI?</a>. </li>
+<li><a href="{{ '/unescoai/' | relative_url }}">Artificial Intelligence and the Rule of Law</a>. </li>
 
 
 </ul>
