@@ -27,4 +27,4 @@ Bevor Aufträge öffentlich ausgeschrieben werden, werden Lücken oft von Agentu
 
 Worum es nur ging?
 
-Das bleibt hinter verschlossenen Türen. Auf jedenfall habe ich beim Buffet gut zugelangt. Das komplette Kontrastprogramm zu anderen Konsekutiveinsätzen, wo man als Dolmetscher aufs Essen verzichten muss.
+Das bleibt hinter verschlossenen Türen. 

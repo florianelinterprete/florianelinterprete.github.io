@@ -7,7 +7,7 @@ permalink: /tefl/
 
 [zurück]({% link _tabs/CV.md %})
 
-Ein Muttersprachler ist immer die beste Wahl. Im Falle Englisch sind das Menschen aus dem Commonwealth. 
+Ein Muttersprachler ist ab bestandenem B1 die beste Wahl. Im Falle Englisch sind das Menschen aus dem Commonwealth. 
 
 <iframe
   src="{{ '/assets/TEFL.pdf' | relative_url}}"

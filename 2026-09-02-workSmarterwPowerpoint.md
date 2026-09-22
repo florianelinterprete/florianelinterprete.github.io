@@ -7,7 +7,7 @@ permalink: /ppt/
 
 [zurück]({% link _tabs/CV.md %})
 
-Brauchte ich für AEVO. 
+Selbsterklärend.
 
 ![ant]({{ site.baseurl }}/assets/coursera/powerpoint.jpeg)
 

@@ -7,7 +7,7 @@ permalink: /argentonsurcreuse/
 
 [zurück]({% link _tabs/CV.md %})
 
-Konsekutivdolmetschen für Deutsche Azubis in Bergerac.
+Konsekutivdolmetschen für Deutsche Azubis in Argenton-sur-Creuse.
 
 <iframe
   src="{{ '/assets/dfssfa/argentonsurcreuse.pdf' | relative_url}}"

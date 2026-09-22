@@ -7,8 +7,7 @@ permalink: /welocalize/
 
 [zurück]({% link _tabs/CV.md %})
 
-Wegen NDA gibt es hier nichts zu berichten. Mein erster Übersetzerjob.
-
+Übersetzen English-Deutsch zu Themen wie "Datacenter".
 
 <iframe
   src="{{ '/assets/welocalize.pdf' | relative_url}}"
