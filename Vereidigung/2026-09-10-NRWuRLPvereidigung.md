@@ -7,14 +7,13 @@ permalink: /vereidigungen/
 
 [zurück]({% link _tabs/CV.md %})
 
-[go back]({% link _tabs/CV.md %})
 
 Interessant zu sehen, ob das klappt.
 
 
 gültig:
 <iframe
-  src="{{ '/assets/vereidigungRLP.pdf' | relative_url}}"
+  src="{{ '/assets//vereidigungen/rlpvereidigung.pdf' | relative_url}}"
   width="100%"
   height="800px"
   style="border: none;">
@@ -22,7 +21,7 @@ gültig:
 
 abgelaufen:
 <iframe
-  src="{{ '/assets/vereidigungNRW.pdf' | relative_url}}"
+  src="{{ '/assets/vereidigungen/nrwvereidigung.pdf' | relative_url}}"
   width="100%"
   height="800px"
   style="border: none;">
