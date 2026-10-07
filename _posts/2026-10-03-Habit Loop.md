@@ -78,6 +78,11 @@ Joe Rogan sagt man müsse sich selber feiern, als würde man von einem Kameratea
 
 Auf Parties wird gesoffen und zwar nicht zu knapp. Es erfodert extreme Willenskraft da nicht mitzumachen. Vor etwa 5 Jahren habe ich aufgehört mit Alkohol. 
 
+<blockquote>
+One of the most practical ways to eliminate a bad habit is to
+reduce exposure to the cue that causes it.
+</blockquote>
+
 Mein Freund M. hat jetzt 2 Kinder, weil er sich im Suff nicht kontrollieren kann. 
 
 In meinem besten Moment öffnete ich mit 2 Promille meine Autotür um mich auf die Straße zu übergeben oder ließ mir ohne jegliche Verteidigung ins Gesicht schlagen. 
@@ -206,3 +211,53 @@ Du musst den Stein ins Rollen bringen. Wenn du morgens aufwachst und merkst, das
 
 Es gibt kein Fazit, das sind einfach nur Beobachtungen.
 
+## Pointing and Calling
+
+<blockquote>
+Pointing-and-Calling raises your level  of awareness from a nonconcious habit to a more conscious level by verbalizing your actions.
+</blockquote>
+
+Das jetzt bitte mal auf den Kalorienzähler 'Cronometer' und Instagram Videos anwenden. Die Übungen, die ich mache haben alle einen Namen und sind handerlesen. 
+
+## Implementation Intention
+
+Im Prinzip ähnlich wie Pointing. In der Programmiersprache C kann man auf den Wert einer Variable zeigen. Das nennt man Dereferencing. 
+
+## Der neue Prometheus
+
+"Was der Denker denkt, beweist der Beweisführer"
+
+<blockquote>
+You get to wake up early for work. You get to make another sales
+call for your business. You get to cook dinner for your family. By
+simply changing one word, you shift the way you view each event. You
+transition from seeing these behaviors as burdens and turn them into
+opportunities.
+
+The key point is that both versions of reality are true. You have to
+do those things, and you also get to do them. We can find evidence for
+whatever mind-set we choose.
+
+</blockquote>
+
+## Dopamin
+
+"One of the most satisfying feelings is the feeling of making  progress".
+
+Aber auch
+
+"Today's peak is tomorrows plateau".
+
+## temptation bundling
+
+Ich stecke mir immer einen Geldschein in den Socken und phatanasiere über einen Premium-Kaffee nachdem ich ankomme nach einem 5-7km run. In meinem Kopf nenne ich diese überteuerten Kaffees "Lifestyle Coffees".
+
+## goldilocks
+
+![Goldilocks]({{site.baseurl}}assets/goldilocks.png)
+
+Die „Goldilocks“-Metapher beschreibt einen Zustand, bei dem etwas genau richtig ist – also weder zu viel noch zu wenig, sondern optimal. Sie geht auf das Märchen Goldlöckchen und die drei Bären zurück, in dem Goldlöckchen beispielsweise einen Brei findet, der weder zu heiß noch zu kalt ist. Man spricht etwa von der „Goldilocks Zone“, wenn die Bedingungen für etwas ideal sind, beispielsweise für Leben auf einem Planeten.
+
+Bei **Motivation und Craving** bezeichnet die „Goldilocks“-Metapher einen **optimalen Erregungs- bzw. Anspannungsgrad**: Zu wenig Anreiz → Langeweile und wenig Motivation, zu viel → Überforderung oder Stress.
+Das stärkste **Craving** entsteht oft, wenn ein Reiz **weder völlig vorhersehbar noch völlig unwahrscheinlich** ist, sondern gerade interessant und erreichbar genug bleibt.
+Kurz: **Der Reiz muss „genau richtig“ dosiert sein – genug, um dich anzutreiben, aber nicht so viel, dass du dich überfordert fühlst.**
