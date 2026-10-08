@@ -256,8 +256,11 @@ Ich stecke mir immer einen Geldschein in den Socken und phatanasiere über einen
 
 ![Goldilocks]({{site.baseurl}}assets/goldilocks.png)
 
-Die „Goldilocks“-Metapher beschreibt einen Zustand, bei dem etwas genau richtig ist – also weder zu viel noch zu wenig, sondern optimal. Sie geht auf das Märchen Goldlöckchen und die drei Bären zurück, in dem Goldlöckchen beispielsweise einen Brei findet, der weder zu heiß noch zu kalt ist. Man spricht etwa von der „Goldilocks Zone“, wenn die Bedingungen für etwas ideal sind, beispielsweise für Leben auf einem Planeten.
+Die „Goldilocks“-Metapher beschreibt einen Zustand, bei dem etwas genau richtig ist – also weder zu viel noch zu wenig, sondern optimal. Sie geht auf das Märchen Goldlöckchen und die drei Bären zurück, in dem Goldlöckchen beispielsweise einen Brei findet, der weder zu heiß noch zu kalt ist. Man spricht etwa von der „Goldilocks Zone“, wenn die Bedingungen für etwas ideal sind.
 
 Bei **Motivation und Craving** bezeichnet die „Goldilocks“-Metapher einen **optimalen Erregungs- bzw. Anspannungsgrad**: Zu wenig Anreiz → Langeweile und wenig Motivation, zu viel → Überforderung oder Stress.
 Das stärkste **Craving** entsteht oft, wenn ein Reiz **weder völlig vorhersehbar noch völlig unwahrscheinlich** ist, sondern gerade interessant und erreichbar genug bleibt.
 Kurz: **Der Reiz muss „genau richtig“ dosiert sein – genug, um dich anzutreiben, aber nicht so viel, dass du dich überfordert fühlst.**
+
+
+[https://de.wikipedia.org/wiki/Yerkes-Dodson-Gesetz](https://de.wikipedia.org/wiki/Yerkes-Dodson-Gesetz)
