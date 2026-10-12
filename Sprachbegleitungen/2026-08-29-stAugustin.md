@@ -10,7 +10,7 @@ permalink: /staugustin/
 Konsekutivdolmetschen für Französische Dachdecker in St. Augustin.
 
 <iframe
-  src="{{ '/assets/dfssfa/staugustin.pdf' | relative_url}}"
+  src="{{ '/Sprachbegleitungen/staugustin.pdf' | relative_url}}"
   width="100%"
   height="800px"
   style="border: none;">

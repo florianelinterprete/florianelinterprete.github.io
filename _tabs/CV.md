@@ -619,6 +619,7 @@ Microsoft Copilot</a>. </li>
 Work (2024)</a>. </li>
 <li><a href="{{ '/whatisgenai/' | relative_url }}">What Is Generative AI?</a>. </li>
 <li><a href="{{ '/unescoai/' | relative_url }}">Artificial Intelligence and the Rule of Law</a>. </li>
+<li><a href="{{ '/sapui5/' | relative_url }}">SAPUI5 / OpenUI5</a>. </li>
 
 
 </ul>

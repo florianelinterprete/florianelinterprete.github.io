@@ -10,7 +10,7 @@ permalink: /luebeck/
 Konsekutivdolmetschen für Französische Azubis in Lübeck-Travemünde.
 
 <iframe
-  src="{{ '/assets/dfssfa/luebeck.pdf' | relative_url}}"
+  src="{{ '/Sprachbegleitungen/luebeck.pdf' | relative_url}}"
   width="100%"
   height="800px"
   style="border: none;">
