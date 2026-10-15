@@ -264,3 +264,16 @@ Kurz: **Der Reiz muss „genau richtig“ dosiert sein – genug, um dich anzutr
 
 
 [https://de.wikipedia.org/wiki/Yerkes-Dodson-Gesetz](https://de.wikipedia.org/wiki/Yerkes-Dodson-Gesetz)
+
+## Kalorienzähler
+
+![Goldilocks]({{site.baseurl}}assets/fatloss/cronometer1.png)
+
+![Goldilocks]({{site.baseurl}}assets/fatloss/cronometer2.png)
+
+Ähnlich wie Strava, hat Cronometer eine Web-App und eine App, wo man seine Lebensmittel tracken kann.
+
+Bei mir ist es so, dass ich am Anfang des Tages logge und dann irgendwann wie ein Raubtier alles in mein Maul schiebe (natürlich ohne zu loggen).
+
+Das hängt mit Regel #3 zusammen, es ist einfach nicht 3asy (easy) genug. Man muss die Funktion "Custom Meals" benutzen. Hier gibt es beispielsweise oft Reis+Fleisch+Kochbanane+Ei+gekochte-Bohnen. Alles einzeln zu loggen ist extrem nervig.
+
