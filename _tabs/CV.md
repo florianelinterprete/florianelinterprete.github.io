@@ -349,7 +349,7 @@ SFA: sécretariat-franco-allemand
 
 
 <details>
-<summary>2013 - Sprachbegleitung für DFS-SFA</summary>
+<summary>2013 - Sprachbegleitung Longvic</summary>
 
 23/09/2013 - 11/10/2013
 
