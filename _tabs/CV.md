@@ -327,7 +327,7 @@ SFA: sécretariat-franco-allemand
 
 09/11/2014 - 28/11/2014
 
-<a href="{{ '/argentonsurcreuse/' | relative_url }}">Französisch für DFS-SFA</a>.<br>
+<a href="{{ '/argenton/' | relative_url }}">Französisch für DFS-SFA</a>.<br>
 
 DFS: Deutsch-Französisches-Sekretariat
 
