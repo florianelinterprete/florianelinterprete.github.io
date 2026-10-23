@@ -8,11 +8,13 @@ image: ./assets/fatloss/habitloopsimple.jpeg
 
 ## Journaling
 
-Schreiben ist eine Gewohnheit, für die das Buch Wealth Money can't buy. Diesen Buchtitel nehmen manche Leute zum Anlass, sich einzureden sie bräuchten kein Geld, weil Geld nicht glücklich mache. 
+The Wealth Money Can't Buy ist ein erstes Buch, das Gewohnheiten thematisiert. Diesen Buchtitel nehmen manche Leute zum Anlass, sich einzureden sie bräuchten kein Geld, weil Geld nicht glücklich mache. 
 
 Aber Geld ist lediglich Energie. Nun egal.
 
 ![habit loop intricate](/assets/fatloss/habitloopintricate.jpeg)
+
+Jedenfalls ist Journaling und Listen führen eine gute Gewohnheit mit extremen Folgen.
 
 ## Atomic Habits
 
@@ -22,7 +24,11 @@ Im Prizpip ein Plagiat von Duhig, mit einer sinnlosen Hinzufügung (Response). C
 
 Das Wichtige ist eigentlich nur zu wissen, was genau Gewohnheiten stärkt. Und wie man Gewohnheiten schwächt. 
 
-Leider kann ich meinen Pundi-Freund nicht mehr sehen. Er heißt "5C", weil er mir dauernd Zigaretten anbietet. Nun könnte ich naiv denken, ich sage einfach nein. Aber das ist nicht was passiert, wenn wir aufeinanderstoßen.
+Duhiqs Modell sieht so aus: Cue - Routine - Reward. Und das trifft den Nagel auf den Kopf. 
+
+## Removing Cues (Rule 1: Hide it)
+
+Leider kann ich meinen Pundi-Freund "5C" nicht mehr sehen. Er heißt "5C", weil er mir dauernd Zigaretten anbietet. Nun könnte ich naiv denken, ich sage einfach nein. Aber das ist nicht was passiert, wenn wir aufeinanderstoßen. 
 
 ## Rule-1: Make it obvious
 
@@ -56,11 +62,11 @@ Atomic Habits kann am besten an der Milch im Kaffee exemplifiziert werden. Es is
 
 Psychologisch ist es ein micro-commitment und für den Organismus ein erster Kontakt mit Kalorien. 
 
-Ich peile täglich 13 Uhr an und versuche ein Paar Cues zu sehen. Das sind ein Leerer Magen. Der Bauch schrumpft ein bischen und man hat das Gefühl, da herrscht etwas Vakuum. Das ist der Cue. Außerdem Hunger selbst. Ich warte auf den berüchtigen "pang of hunger". 
+Ich peile täglich 13 Uhr an und versuche ein Paar Cues zu sehen. Das sind ein Leerer Magen. Der Bauch schrumpft ein bischen und man hat das Gefühl, da herrscht etwas Vakuum. Das ist der Cue. Außerdem Hunger selbst. Ich warte auf den berüchtigten "pang of hunger". 
 
 Wenn sich dieser Hunger präsentiert, kippe ich schwarzen Kaffee drauf. Das funktioniert wirklich. Man darf es nicht übertreiben. Damit meine ich nicht den Kaffee sondern das Kalorienbilanzdefizit. 
 
-Gestern habe ich übertrieben. Bin ohne Kalorien um 13 Uhr 10 km gerannt. Ganz schön schmerzhaft. Nicht zu empfehlen. Das schwächt den Habit Loop. Das wäre die Regel "make it enjoyable".
+Gestern habe ich übertrieben. Bin ohne Kalorien um 13 Uhr 10 km gerannt. Ganz schön schmerzhaft. Nicht zu empfehlen. Das schwächt den Habit Loop, da es Regel-4 zuwiderläuft. Das wäre die Regel "make it enjoyable".
 
 ## Rule-was-auch-immer Make it easy
 
@@ -68,11 +74,19 @@ Disziplinjünger feiern sich selber und sagen Disziplin sei gut. Aber das ist un
 
 3asy - die 3 ist wie ein umgedrehtes "e" und erinnert uns daran, dass Nummer 3 - easy ist.
 
+Was man als Normalsterblicher schwer verstehen kann, ist dass Leute wie Goggins es lieben sich zu quälen. Es ist somit für sie "enjoyable". 
+
+James Clear wirbt für Systeme statt Disziplin, weil Disziplin begrenzt ist. Die Coaches und Internetpersönlichkeiten sind in dieser Hinsicht nicht ehrlich. Sie müssen sich schließlich selbst in Szene setzen. "Ich habe Disziplin". 
+
+Ich habe Strategien. Das ist viel wertvoller als Disziplin. Weil warum braucht der Mensch überhaupt Disziplin? Und hier versteckt sich die Wahrheit. Weil er keine hat.
+
 ## Rule-4 Make it enjoyable
 
 Wie ein Berserker durch die Welt zu rennen macht garkeinen Spaß. Das Überwunden haben motiviert einige Leute. In sozialen Medien wie Strava posten macht Spaß. Angeben macht Spaß.
 
 Joe Rogan sagt man müsse sich selber feiern, als würde man von einem Kamerateam verfolgt. Das genau spielt an auf die 4. Regel. 
+
+Man muss sich den eigenen Narzissmus zum Vorteil machen. Ich bin mir sicher, dass jeder auf Instagram seine eigenen Videos am Meisten anschaut. 
 
 ## Rule-1 Make it invisible
 
@@ -89,7 +103,29 @@ In meinem besten Moment öffnete ich mit 2 Promille meine Autotür um mich auf d
 
 Das Thema der meisten Parties ist "Alkohol trinken" und "Rauchen". Die einzige Lösung ist solchen Orten fernzubleiben.
 
-Und genau das ist auch Regel#1 bzw dessen Umkehrschluss. Man muss die Cues vermeiden. 
+Und genau das ist auch Regel-#1 bzw dessen Umkehrschluss. Man muss die Cues vermeiden. Ich kenne viele Leute die Cocain ziehen. 
+
+Cue - Craving - Reward
+
+Es ist die Erinnerung an die Belohnung, welche Gewohnheit am Leben hält. 2008 hat mich ein finnischer Drogendealer hintergangen. Er sagte mir, ich solle mal ein Körnchen Koks auf meine Zunge legen. Hab ich gemacht. Direkt hat sich die Erfahrung in meine Erinnerung gebrandt. 
+
+Inzwischen ist es 18 Jahre her und ich kann mich nicht mehr daran erinnern. Der Zyklus ist gebrochen. In Kolumbien sieht man häufig ein junges Mädchen einem anderen jungen Mädchen einen kleinen Metalllöffel in die Nase halten.
+
+Die Drogen hören irgendwann auf den gewünschten Effekt zu haben und man muss immer mehr davon konsumieren für minimalen Effekt. In etwa wie Scarface, dem Film mit Al Pacino. 
+
+Jetzt fragt sich der Leser, was hat das ganze mit Abnehmen zu tun? Zucker ist wie Cocain. Soein Kinder Bueno ist im Prinzip eine Designer-Droge. Es schmeckt unfassbar gut. 
+
+Wie du siehst, bin ich bereits Kunde. Fatale Fehler. Es wäre besser eine Linsensuppe zu essen.  Und da steckt die Rettung. Auch eine Linsensuppe nach 5 Stunden fasten bedeutet riesen Genuss. 
+
+Es ist diese Möglichkeit zu substituieren, das heißt die Routine in
+
+Cue - Routine - Reward 
+
+auszutauschen, die dich am Ende des Tages rettet. Weil wir sind alle Junkies. Das sind biologische Tendenzen, die uns mit in die Wiege gelegt werden. 
+
+Was macht ein Cocainsüchtiger, wenn der gewünschte Effekt ausbleibt. Und hier wird es leider traurig. Sie fangen an 'Base' zu rauchen und werden im Prinzip zu Zombies. Sie atmen zwar und essen (Müll), aber viel mentale Kapazitäten haben sich nicht mehr. 
+
+Das ist sogar irgendwie lustig (und traurig zu gleich) anzusehen.
 
 ## Bilanz ziehen
 
@@ -198,6 +234,20 @@ Es ist ein bischen schwer in Wörter zu gießen, aber wenn du 10 Kilometer nach 
 
 Das ist ein der Habit Loop, der Quasi von alleine läuft und einen erschreckend großen Teil unseres Lebens abdeckt. Wir halten uns für freie Agenten mit freiem Willen, aber haben in Wirklichkeit mehr Gemeinsamkeiten mit den Ratten.
 
+## Cue Routine Reward
+
+Charles Duhiq spricht in seinem Buch von 'Ripple effects'. Keystone habits sind so grundlegende Gewohnheiten, dass sie ausstrahlen. Domino effect kann man dort auch lesen. 
+
+In letzter Zeit habe ich extrem viel falsch gemacht. Ich habe mir massenhaft Weizen ins Gesicht geschoben, Kaffee mit Milch getrunken und doch zeigt die Waage 94 kg. 
+
+Es ist überhaupt nicht einfach eine Waage zu finden in Medellin. 
+
+![Halbmaraton]({{ site.baseurl }}/assets/strava/halbmaraton.png)
+
+Es ist buchstäblich so als würde die Dunkelheit mit Licht kämpfen. Das ist eine schöne Metapher. 
+
+'Everything counts' kann man wörtlich verstehen. Es ist keine Moralkeule. Es ist wirklich so. Alles was du tust zählst. Es gibt Schritte in die richtige, und Schritte in die falsche Richtung. 
+
 ## Consistency
 
 Cialdini nennt dieses Phänomen Consistency. Das Kapitel heißt "Commitment and Consistency". Es ist einfacher im Einklang vorher getätigten Handlungen zu handeln als eine neue Richtung einzuschlagen. 
@@ -206,10 +256,6 @@ Beständigkeit ist keine sonderlich gute Übersetzung des Phänomens.
 Beharrlichkeit auch nicht. Beide implizieren das Jemand etwas tut. Dass jemand Disziplin hat, aber es ist Rückenwind. Elan. Trägheit der Masse. Noch mehr von dem Gleichen ist einfacher als ein Bruch mit Vorangegangenem.
 
 Du musst den Stein ins Rollen bringen. Wenn du morgens aufwachst und merkst, dass du extrem viel Kalorien in deinem Körper hast, weil du am Tag zuvor "gescheitert bist", kannst du die Trägheit deiner Masse nutzen, indem du eine harte HIIT-Session oder einen Lauf absolvierst, viel Fahrrad fährst, kilometerweise oder schwimmst wie ein Pinguin "auf Distanz".
-
-## Fazit
-
-Es gibt kein Fazit, das sind einfach nur Beobachtungen.
 
 ## Pointing and Calling
 
@@ -276,4 +322,43 @@ Kurz: **Der Reiz muss „genau richtig“ dosiert sein – genug, um dich anzutr
 Bei mir ist es so, dass ich am Anfang des Tages logge und dann irgendwann wie ein Raubtier alles in mein Maul schiebe (natürlich ohne zu loggen).
 
 Das hängt mit Regel #3 zusammen, es ist einfach nicht 3asy (easy) genug. Man muss die Funktion "Custom Meals" benutzen. Hier gibt es beispielsweise oft Reis+Fleisch+Kochbanane+Ei+gekochte-Bohnen. Alles einzeln zu loggen ist extrem nervig.
+
+## Cronometer Hack
+
+Ein guter Trick bei Cronometer ist es, ein eigenes Lebensmittel anzulegen, dass genau 1kcal/1g enthält. 
+
+Gestern habe ich 2 Kinder Buenos, 1 Liter Orangensaft und 1 Liter Weintrabensaft konsumiert. 
+
+1200 kcal. 
+
+## Kaffee
+
+Man kann alles Mögliche Kultivieren. Schimmelpilze oder eine Sucht. Die Sucht nach Kaffee kultiviere ich mit Absicht. 
+
+In letzter Zeit experimentiere ich auch mit Nicorette-Kaugummies. Ein weiterer Instagramm-Wahnsinn. <a href="https://www.google.com/search?q=Dr+Ardis+nicotine">Dr. Ardis</a> behauptet felsenfest, Nicotin würde nicht süchtig machen. 
+
+Er behauptet ferner Pyrazzine in Zigaretten seien für die Sucht verantwortlich. Dass Rauchen süchtig macht kann ich bestätigen. Und es es extrem unangenehm sich das abzugewöhnen. 
+
+Man spürt den "Pull". 
+
+Ein weiterer "Verschwörungstheoretiker" behauptet Zigarren würden beim Fasten helfen, ähnlich wie Kaffee. Das ist vielleicht ein Experiment für die Zukunft. Dabei wird der Wirkstoff über die Schleimhäute aufgenommen (ohne Inhalation). 
+
+## Milch im Kaffee
+
+Die Grundlage von Sucht ist die Erinnerung an den letzten Zyklus. Latte Machiato, Cappuchino.
+
+Alle Taxifahrer in Kolumbien haben mir gebeichten sie seien süchtig nach Tussie. Soein pinkes Pulver. Ein riesiges Geschäft. Was hat diese Droge mit Milch im Kaffee zu tun?
+
+Das Gehirn erinnert sich an den Milchzucker im Kaffee. Außerdem zerstört dieser Zucker die Ketose. 
+
+Süßstoff ist doch nicht so schlimm, könnte mna denken. Aber es ist die Erinnerng an Zucker. Am besten ist, man probiert es selber aus. Die Erinnerung an den letzten "Hit" führt zum nächsten. 
+
+Ohne es zu Wissen, sind wir alle Junkies. Aber wer ließt schon ein 900 Seiten Buch, um das zu verstehen?
+
+## Bildchen des Habit Loops
+
+Der Habit Loop bei Charles Duhiq ist simpel und zutreffend. 
+<p>
+cue &rarr; craving &rarr; routine 
+</p>
 
