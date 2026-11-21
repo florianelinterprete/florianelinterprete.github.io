@@ -48,6 +48,10 @@
     {
       "extension": "yml",
       "color": "foldercolorizer.color_ff0000"
+    },
+    {
+      "folderPath": "florianelinterprete\\Zertifikate\\",
+      "badge": "🧠"
     }
   ]
 }
