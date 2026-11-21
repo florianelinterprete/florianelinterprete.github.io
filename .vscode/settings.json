@@ -44,6 +44,10 @@
     {
       "folderPath": "florianelinterprete\\.vscode\\",
       "color": "foldercolorizer.color_121212"
+    },
+    {
+      "extension": "yml",
+      "color": "foldercolorizer.color_ff0000"
     }
   ]
 }
