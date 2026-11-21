@@ -433,7 +433,7 @@ In Heidelberg konnte ich 4-Semester Chinesisch belegen. Allerdings habe ich Chin
 <img src="/assets/exma.png" alt="Exmatrikulation RUB" style="width: 55%">
 
 <p>
-Nach der Beeindigung des <a href="{{ '/rub/' | relative_url}}">chemisch-philologischen Experiments</a> war ich in Zentralamerika Spanisch lernen und tauchen.
+Nach der Beendigung des <a href="{{ '/rub/' | relative_url}}">chemisch-philologischen Experiments</a> war ich in Zentralamerika Spanisch lernen und tauchen.
 </p>
 
 <img src="/assets/padiopenwater.jpg" style="width:55%" alt="Tauchkurs">
