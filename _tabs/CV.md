@@ -61,17 +61,7 @@ Deutsch, Englisch, Französisch und Spanisch.
 
 ## <i class="fas fa-user"></i> Profil
 
-Deutschlehrer in der Erwachsenenbildung aus gutem Grund:
-
-ich habe <br>
-
-· Englisch bei US-Amerikanern gelernt<br>
-· Französisch bei Franzosen<br>
-· Russisch bei Russen<br>
-· Spanisch bei Spaniern<br>
-· und Mandarin bei Chinesen gelernt<br>
-
-nun will ich Lernenden das Gleiche in LATAM ermöglichen.
+Language Specialist, NLP, AI, Software, Technology
 
 ---
 
@@ -438,12 +428,12 @@ In Heidelberg konnte ich 4-Semester Chinesisch belegen. Allerdings habe ich Chin
 <details>
 <summary>2-Fach-Bachelor Romanische Philolologie Französisch und Chemie</summary>
 
-<p>Nach dem Abitur bewarb ich mich für Sinnologie und ergatterte einen Platz der wegen Nichteinschreibung anderweitig vergeben wurde.</p>
+
 
 <img src="/assets/exma.png" alt="Exmatrikulation RUB" style="width: 55%">
 
 <p>
-Nach der Beeindigung des philologischen Experiments war ich in Zentralamerika Spanisch lernen und tauchen.
+Nach der Beeindigung des <a href="{{ '/rub/' | relative_url}}">chemisch-philologischen Experiments</a> war ich in Zentralamerika Spanisch lernen und tauchen.
 </p>
 
 <img src="/assets/padiopenwater.jpg" style="width:55%" alt="Tauchkurs">
@@ -603,12 +593,10 @@ Die Ausbildung der Ausbilder (<a href="{{ '/AEVO/' | relative_url }}"> AdA</a>).
 
 <div class="cv-card">
 <details>
-<summary><i class="fas fa-list"></i>Sonstiges</summary>
+<summary><i class="fa-brands fa-connectdevelop"></i> Künstliche Intelligenz</summary>
 <ul>
-<li><a href="{{ '/nft/' | relative_url }}">NFT</a>. </li>
-<li><a href="{{ '/sketchup/' | relative_url }}">SketchUp</a>. </li>
-<li><a href="{{ '/jquery/' | relative_url }}">jQuery</a>. </li>
-<li><a href="{{ '/ppt/' | relative_url }}">Powerpoint</a>. </li>
+<li><a href="{{ '/azure/' | relative_url }}">Microsoft Azure AI Essentials
+Professional Certificate</a>. </li>
 <li><a href="{{ '/ethik/' | relative_url }}">Ethik im Zeitalter generativer KI</a>. </li>
 <li><a href="{{ '/genai/' | relative_url }}">Generative AI: The Evolution of
 Thoughtful Online Search</a>. </li>
@@ -619,6 +607,20 @@ Microsoft Copilot</a>. </li>
 Work (2024)</a>. </li>
 <li><a href="{{ '/whatisgenai/' | relative_url }}">What Is Generative AI?</a>. </li>
 <li><a href="{{ '/unescoai/' | relative_url }}">Artificial Intelligence and the Rule of Law</a>. </li>
+</ul>
+</details>
+</div>
+
+
+<div class="cv-card">
+<details>
+<summary><i class="fas fa-list"></i> Sonstiges</summary>
+<ul>
+<li><a href="{{ '/nft/' | relative_url }}">NFT</a>. </li>
+<li><a href="{{ '/sketchup/' | relative_url }}">SketchUp</a>. </li>
+<li><a href="{{ '/jquery/' | relative_url }}">jQuery</a>. </li>
+<li><a href="{{ '/ppt/' | relative_url }}">Powerpoint</a>. </li>
+
 <li><a href="{{ '/sapui5/' | relative_url }}">SAPUI5 / OpenUI5</a>. </li>
 
 

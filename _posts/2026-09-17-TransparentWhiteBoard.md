@@ -17,7 +17,10 @@ Ein Wort muss man wie Kaligraphie behandeln.
 
 [Transparent White Board](https://youtu.be/5X51_pEBBWw?si=UxsmuBHvnEPFMq2O&t=641)
 
+Ein weiteres Beispiel:
+[Transparent White Board K nearest Neighbor](https://youtu.be/b6uHw7QW_n4?si=RquZ9SSVjm-uQkxe)
 
+Hier erklärt jemand K's nächster Nachbar. Ein Algoritmus zum klassifizieren von Punkten. Man guckt sich alle Nachbarn an und der am meisten häufigste Typ bestimmt den zu klassifizierenden Punkt. 
 
 ![transparent whiteboard]({{ site.baseurl}}/assets/transparentwhiteboard.png)
 

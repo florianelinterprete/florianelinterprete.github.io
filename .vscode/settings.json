@@ -36,6 +36,14 @@
     {
       "extension": "md",
       "color": "foldercolorizer.color_af5f00"
+    },
+    {
+      "filePath": "florianelinterprete\\_tabs\\CV.md",
+      "color": "foldercolorizer.color_00d700"
+    },
+    {
+      "folderPath": "florianelinterprete\\.vscode\\",
+      "color": "foldercolorizer.color_121212"
     }
   ]
 }
